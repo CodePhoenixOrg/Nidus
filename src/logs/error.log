@@ -1,0 +1,34 @@
+2019-07-07 06:49:02: : Error code: 0
+In /Users/david/Sites/CodePhoenixOrg/SDK/php/Phink/src/phink/data/client/pdo/pdo_data_statement.php, line 77
+With the message: Return value of Phink\Data\Client\PDO\TPdoDataStatement::fetch() must be of the type array, bool returned
+Stack trace: #0 /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_grid.class.php(40): Phink\Data\Client\PDO\TPdoDataStatement->fetch()
+#1 /Users/david/Sites/CodePhoenixOrg/SDK/php/Phink/src/phink/web/ui/custom_cached_control.php(144): Nidus\Controllers\Grid->init()
+#2 /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_home.class.php(53): Phink\Web\UI\TCustomCachedControl->render()
+#3 /Users/david/Sites/CodePhoenixOrg/SDK/php/Phink/src/phink/web/ui/custom_cached_control.php(119): Nidus\Controllers\Home->displayHtml()
+#4 /Users/david/Sites/CodePhoenixOrg/SDK/php/Phink/src/phink/core/object.php(150): Phink\Web\UI\TCustomCachedControl->getViewHtml()
+#5 /Users/david/Sites/CodePhoenixOrg/SDK/php/Phink/src/phink/web/ui/custom_cached_control.php(166): Phink\Core\TObject->invoke('getViewHtml', Array)
+#6 /Users/david/Sites/CodePhoenixOrg/SDK/php/Phink/src/phink/autoloader.php(401): Phink\Web\UI\TCustomCachedControl->perform()
+#7 /Users/david/Sites/CodePhoenixOrg/SDK/php/Phink/src/phink/web/web_router.php(96): Phink\TAutoloader::loadCachedFile(Object(Phink\MVC\TView))
+#8 /Users/david/Sites/CodePhoenixOrg/SDK/php/Phink/src/phink/web/web_application.php(213): Phink\Web\TWebRouter->dispatch()
+#9 /Users/david/Sites/CodePhoenixOrg/SDK/php/Phink/src/phink/web/web_application.php(115): Phink\Web\TWebApplication->run(Array)
+#10 /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/web/index.php(5): Phink\Web\TWebApplication::create()
+#11 {main}
+
+
+2019-07-07 06:49:09: : Error code: 0
+In /Users/david/Sites/CodePhoenixOrg/SDK/php/Phink/src/phink/data/client/pdo/pdo_data_statement.php, line 77
+With the message: Return value of Phink\Data\Client\PDO\TPdoDataStatement::fetch() must be of the type array, bool returned
+Stack trace: #0 /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_grid.class.php(40): Phink\Data\Client\PDO\TPdoDataStatement->fetch()
+#1 /Users/david/Sites/CodePhoenixOrg/SDK/php/Phink/src/phink/web/ui/custom_cached_control.php(144): Nidus\Controllers\Grid->init()
+#2 /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_home.class.php(53): Phink\Web\UI\TCustomCachedControl->render()
+#3 /Users/david/Sites/CodePhoenixOrg/SDK/php/Phink/src/phink/web/ui/custom_cached_control.php(119): Nidus\Controllers\Home->displayHtml()
+#4 /Users/david/Sites/CodePhoenixOrg/SDK/php/Phink/src/phink/core/object.php(150): Phink\Web\UI\TCustomCachedControl->getViewHtml()
+#5 /Users/david/Sites/CodePhoenixOrg/SDK/php/Phink/src/phink/web/ui/custom_cached_control.php(166): Phink\Core\TObject->invoke('getViewHtml', Array)
+#6 /Users/david/Sites/CodePhoenixOrg/SDK/php/Phink/src/phink/autoloader.php(401): Phink\Web\UI\TCustomCachedControl->perform()
+#7 /Users/david/Sites/CodePhoenixOrg/SDK/php/Phink/src/phink/web/web_router.php(82): Phink\TAutoloader::loadCachedFile(Object(Phink\MVC\TView))
+#8 /Users/david/Sites/CodePhoenixOrg/SDK/php/Phink/src/phink/web/web_application.php(213): Phink\Web\TWebRouter->dispatch()
+#9 /Users/david/Sites/CodePhoenixOrg/SDK/php/Phink/src/phink/web/web_application.php(115): Phink\Web\TWebApplication->run(Array)
+#10 /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/web/index.php(5): Phink\Web\TWebApplication::create()
+#11 {main}
+
+

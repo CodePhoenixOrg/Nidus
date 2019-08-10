@@ -1,0 +1,8 @@
+{
+    "driver": "mysql",
+    "database": "phoenix",
+    "host": "localhost",
+    "user": "coder",
+    "password": "demo",
+    "port": "3306"
+}

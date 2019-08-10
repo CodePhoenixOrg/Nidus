@@ -1,0 +1,5621 @@
+2019-08-07 08:33:59: : URL: /
+
+2019-08-07 08:33:59: : MATCHES: /views/main.phtml
+
+2019-08-07 08:33:59: : KEY: ^/$
+
+2019-08-07 08:33:59: : PATH::app/views/main.phtml
+
+
+2019-08-07 08:33:59: : BASEURL::Array
+(
+    [path] => /views/main.phtml
+)
+
+
+
+2019-08-07 08:33:59: : IS FOUND::TRUE
+
+
+2019-08-07 08:33:59: : PARAMETERS::Array
+(
+)
+
+
+
+2019-08-07 08:33:59: : TRANSLATED ROUTE::app/views/main.phtml
+
+2019-08-07 08:33:59: : TRANSLATED SRC ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/app/views/main.phtml
+
+2019-08-07 08:33:59: : TRANSLATED PHINK ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/app/views/main.phtml
+
+2019-08-07 08:33:59: : Phink\Auth\TAuthentication::renewToken::TOKEN::
+
+2019-08-07 08:33:59: : MVC FILE NAMES FOR 123456789::Array
+(
+    [id] => noname
+    [name] => main
+    [view] => app/views/main.phtml
+    [controller] => app/controllers/main.class.php
+    [css] => app/views/main.css
+    [js] => app/controllers/main.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_main.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_main.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_main.js
+        )
+
+)
+
+
+
+2019-08-07 08:33:59:phink/autoloader.php:200 : Phink\TAutoloader::includeClass::app/controllers/main.class.php
+
+2019-08-07 08:33:59:phink/mvc/custom_view.php:131 : main IS REGISTERED : TRUE
+
+2019-08-07 08:33:59:phink/mvc/custom_view.php:138 : PARSE SRC ROOT FILE : app/views/main.phtml
+
+2019-08-07 08:33:59:phink/mvc/custom_view.php:200 : SOMETHING TO CACHE : /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_main.class.php
+
+2019-08-07 08:33:59: : PARENT OBJECT::TView
+
+
+2019-08-07 08:33:59: : PARENT OBJECT::Main
+
+
+2019-08-07 08:33:59: : CACHE FILE NAME TO INCLUDE: /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_main.class.php
+
+2019-08-07 08:33:59:phink/autoloader.php:200 : Phink\TAutoloader::includeClass::app/models/main.class.php
+
+2019-08-07 08:33:59: : URL: /master.html
+
+2019-08-07 08:33:59: : MATCHES: /views/master.phtml
+
+2019-08-07 08:33:59: : KEY: ^/master.html$
+
+2019-08-07 08:33:59: : PATH::app/views/master.phtml
+
+
+2019-08-07 08:33:59: : BASEURL::Array
+(
+    [path] => /views/master.phtml
+)
+
+
+
+2019-08-07 08:33:59: : IS FOUND::TRUE
+
+
+2019-08-07 08:33:59: : PARAMETERS::Array
+(
+)
+
+
+
+2019-08-07 08:33:59: : TRANSLATED ROUTE::app/views/master.phtml
+
+2019-08-07 08:33:59: : TRANSLATED SRC ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/app/views/master.phtml
+
+2019-08-07 08:33:59: : TRANSLATED PHINK ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/app/views/master.phtml
+
+2019-08-07 08:33:59: : Phink\Auth\TAuthentication::renewToken::TOKEN::undefined
+
+2019-08-07 08:33:59: : MVC FILE NAMES FOR 123456789::Array
+(
+    [id] => noname
+    [name] => master
+    [view] => app/views/master.phtml
+    [controller] => app/controllers/master.class.php
+    [css] => app/views/master.css
+    [js] => app/controllers/master.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_master.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_master.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_master.js
+        )
+
+)
+
+
+
+2019-08-07 08:33:59:phink/mvc/custom_view.php:131 : master IS REGISTERED : TRUE
+
+2019-08-07 08:33:59:phink/mvc/custom_view.php:138 : PARSE SRC ROOT FILE : app/views/master.phtml
+
+2019-08-07 08:33:59:phink/mvc/custom_view.php:200 : SOMETHING TO CACHE : /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_master.class.php
+
+2019-08-07 08:33:59: : PARENT OBJECT::TView
+
+
+2019-08-07 08:33:59: : PARENT OBJECT::Master
+
+
+2019-08-07 08:33:59: : CACHE FILE NAME TO INCLUDE: /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_master.class.php
+
+2019-08-07 08:33:59: : Phink\Core\TObject::invoke::INVOKE_ACTION::getViewHtml()
+
+2019-08-07 08:34:00: : URL: /home.html
+
+2019-08-07 08:34:00: : MATCHES: /home.html
+
+2019-08-07 08:34:00: : KEY: ^/master.html$
+
+2019-08-07 08:34:00: : URL: /home.html
+
+2019-08-07 08:34:00: : MATCHES: /views/home.phtml
+
+2019-08-07 08:34:00: : KEY: ^/home.html$
+
+2019-08-07 08:34:00: : PATH::app/views/home.phtml
+
+
+2019-08-07 08:34:00: : BASEURL::Array
+(
+    [path] => /views/home.phtml
+)
+
+
+
+2019-08-07 08:34:00: : IS FOUND::TRUE
+
+
+2019-08-07 08:34:00: : PARAMETERS::Array
+(
+)
+
+
+
+2019-08-07 08:34:00: : TRANSLATED ROUTE::app/views/home.phtml
+
+2019-08-07 08:34:00: : TRANSLATED SRC ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/app/views/home.phtml
+
+2019-08-07 08:34:00: : TRANSLATED PHINK ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/app/views/home.phtml
+
+2019-08-07 08:34:00: : Phink\Auth\TAuthentication::renewToken::TOKEN::MTAzMzYyOTYzMzVkNGIxOTk3ZWVmN2U=
+
+2019-08-07 08:34:00: : MVC FILE NAMES FOR 123456789::Array
+(
+    [id] => noname
+    [name] => home
+    [view] => app/views/home.phtml
+    [controller] => app/controllers/home.class.php
+    [css] => app/views/home.css
+    [js] => app/controllers/home.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_home.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_home.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_home.js
+        )
+
+)
+
+
+
+2019-08-07 08:34:00:phink/autoloader.php:200 : Phink\TAutoloader::includeClass::app/controllers/home.class.php
+
+2019-08-07 08:34:00:phink/mvc/custom_view.php:131 : home IS REGISTERED : TRUE
+
+2019-08-07 08:34:00:phink/mvc/custom_view.php:138 : PARSE SRC ROOT FILE : app/views/home.phtml
+
+2019-08-07 08:34:00: : FULL_CLASS_PATH::app/controllers/dummy.class.php
+
+
+2019-08-07 08:34:00:phink/autoloader.php:200 : Phink\TAutoloader::includeClass::app/controllers/dummy.class.php
+
+2019-08-07 08:34:00: : FULL_QUALIFIED_CLASS_NAME: ::Something\Dummy
+
+
+2019-08-07 08:34:00: : FULL_CLASS_PATH::app/controllers/grid.class.php
+
+
+2019-08-07 08:34:00:phink/autoloader.php:200 : Phink\TAutoloader::includeClass::app/controllers/grid.class.php
+
+2019-08-07 08:34:00: : FULL_QUALIFIED_CLASS_NAME: ::Nidus\Controllers\Grid
+
+
+2019-08-07 08:34:00:phink/mvc/custom_view.php:200 : SOMETHING TO CACHE : /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_home.class.php
+
+2019-08-07 08:34:00: : PARENT OBJECT::TView
+
+
+2019-08-07 08:34:00: : PARENT OBJECT::Home
+
+
+2019-08-07 08:34:00: : CACHE FILE NAME TO INCLUDE: /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_home.class.php
+
+2019-08-07 08:34:00:phink/autoloader.php:200 : Phink\TAutoloader::includeClass::app/models/home.class.php
+
+2019-08-07 08:34:00: : CLASS INFO::Dummy::
+
+
+2019-08-07 08:34:00:phink/autoloader.php:315 : CACHED JS FILENAME: 
+
+2019-08-07 08:34:00: : PARSING dummy!!!
+
+2019-08-07 08:34:00: : MVC FILE NAMES FOR 11959260225d4b199810d255.37530856::Array
+(
+    [id] => noname
+    [name] => dummy
+    [view] => app/views/dummy.phtml
+    [controller] => app/controllers/dummy.class.php
+    [css] => app/views/dummy.css
+    [js] => app/controllers/dummy.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_dummy.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_dummy.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_dummy.js
+        )
+
+)
+
+
+
+2019-08-07 08:34:00:phink/autoloader.php:200 : Phink\TAutoloader::includeClass::app/controllers/dummy.class.php
+
+2019-08-07 08:34:00:phink/autoloader.php:353 : app/controllers/dummy.class.php IS REGISTERED : TRUE
+
+2019-08-07 08:34:00: : CONTROLLER FILE NAME OF THE PARSED VIEW: app/controllers/dummy.class.php
+
+2019-08-07 08:34:00:phink/mvc/custom_view.php:131 : dummy IS REGISTERED : TRUE
+
+2019-08-07 08:34:00:phink/mvc/custom_view.php:138 : PARSE SRC ROOT FILE : app/views/dummy.phtml
+
+2019-08-07 08:34:00:phink/mvc/custom_view.php:200 : SOMETHING TO CACHE : /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_dummy.class.php
+
+2019-08-07 08:34:00: : CACHE FILE NAME OF THE PARSED VIEW: /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_dummy.class.php
+
+2019-08-07 08:34:00: : ROOT CACHE FILE NAME OF THE PARSED VIEW: /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_dummy.class.php
+
+2019-08-07 08:34:00: : CLASS INFO::Grid::
+
+
+2019-08-07 08:34:00:phink/autoloader.php:315 : CACHED JS FILENAME: 
+
+2019-08-07 08:34:00: : PARSING grid!!!
+
+2019-08-07 08:34:00: : MVC FILE NAMES FOR 20514574895d4b1998126087.23015095::Array
+(
+    [id] => noname
+    [name] => grid
+    [view] => app/views/grid.phtml
+    [controller] => app/controllers/grid.class.php
+    [css] => app/views/grid.css
+    [js] => app/controllers/grid.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_grid.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_grid.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_grid.js
+        )
+
+)
+
+
+
+2019-08-07 08:34:00:phink/autoloader.php:200 : Phink\TAutoloader::includeClass::app/controllers/grid.class.php
+
+2019-08-07 08:34:00:phink/autoloader.php:353 : app/controllers/grid.class.php IS REGISTERED : TRUE
+
+2019-08-07 08:34:00: : CONTROLLER FILE NAME OF THE PARSED VIEW: app/controllers/grid.class.php
+
+2019-08-07 08:34:00:phink/mvc/custom_view.php:131 : grid IS REGISTERED : TRUE
+
+2019-08-07 08:34:00:phink/mvc/custom_view.php:138 : PARSE SRC ROOT FILE : app/views/grid.phtml
+
+2019-08-07 08:34:00:phink/mvc/custom_view.php:200 : SOMETHING TO CACHE : /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_grid.class.php
+
+2019-08-07 08:34:00: : CACHE FILE NAME OF THE PARSED VIEW: /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_grid.class.php
+
+2019-08-07 08:34:00: : ROOT CACHE FILE NAME OF THE PARSED VIEW: /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_grid.class.php
+
+2019-08-07 08:34:00:phink/autoloader.php:200 : Phink\TAutoloader::includeClass::app/models/grid.class.php
+
+2019-08-07 08:34:00: : Phink\Core\TObject::invoke::INVOKE_ACTION::getViewHtml()
+
+2019-08-07 08:34:00: : MVC FILE NAMES FOR 570490985d4b19981b4427.44284536::Array
+(
+    [id] => noname
+    [name] => pager
+    [view] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.phtml
+    [controller] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.class.php
+    [css] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.css
+    [js] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_pager.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_pager.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_pager.js
+        )
+
+)
+
+
+
+2019-08-07 08:34:00: : MVC FILE NAMES FOR 7209887995d4b19982580d9.62222476::Array
+(
+    [id] => noname
+    [name] => plugin
+    [view] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.phtml
+    [controller] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.class.php
+    [css] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.css
+    [js] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_plugin.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_plugin.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_plugin.js
+        )
+
+)
+
+
+
+2019-08-07 08:34:00:phink/mvc/custom_controller.php:74 : CACHE FILE NAME IF EXISTS : /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/vendor_phink_phink_src_phink_web_ui_widget_pager_pager.class.php
+
+2019-08-07 08:34:00:phink/mvc/custom_controller.php:77 : TRUE
+
+2019-08-07 08:34:00:phink/mvc/custom_view.php:131 : pager IS REGISTERED : FALSE
+
+2019-08-07 08:34:00:phink/mvc/custom_view.php:143 : PARSE SITE ROOT FILE : vendor/phink/phink/src/phink/web/ui/widget/pager/pager.phtml
+
+2019-08-07 08:34:00:phink/mvc/custom_view.php:186 : NO NEED TO WRITE CODE: vendor/phink/phink/src/phink/web/ui/widget/pager/pager.class.php
+
+2019-08-07 08:34:00:phink/mvc/custom_controller.php:74 : CACHE FILE NAME IF EXISTS : /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/vendor_phink_phink_src_phink_web_ui_widget_plugin_plugin.class.php
+
+2019-08-07 08:34:00:phink/mvc/custom_controller.php:77 : TRUE
+
+2019-08-07 08:34:00:phink/mvc/custom_view.php:131 : plugin IS REGISTERED : FALSE
+
+2019-08-07 08:34:00:phink/mvc/custom_view.php:143 : PARSE SITE ROOT FILE : vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.phtml
+
+2019-08-07 08:34:00:phink/mvc/custom_view.php:186 : NO NEED TO WRITE CODE: vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.class.php
+
+2019-08-07 08:34:00: : URL: /
+
+2019-08-07 08:34:00: : MATCHES: /views/main.phtml
+
+2019-08-07 08:34:00: : KEY: ^/$
+
+2019-08-07 08:34:00: : PATH::app/views/main.phtml
+
+
+2019-08-07 08:34:00: : BASEURL::Array
+(
+    [path] => /views/main.phtml
+)
+
+
+
+2019-08-07 08:34:00: : IS FOUND::TRUE
+
+
+2019-08-07 08:34:00: : PARAMETERS::Array
+(
+)
+
+
+
+2019-08-07 08:34:00: : TRANSLATED ROUTE::app/views/main.phtml
+
+2019-08-07 08:34:00: : TRANSLATED SRC ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/app/views/main.phtml
+
+2019-08-07 08:34:00: : TRANSLATED PHINK ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/app/views/main.phtml
+
+2019-08-07 08:34:00: : Phink\Auth\TAuthentication::renewToken::TOKEN::
+
+2019-08-07 08:34:00: : MVC FILE NAMES FOR 123456789::Array
+(
+    [id] => noname
+    [name] => main
+    [view] => app/views/main.phtml
+    [controller] => app/controllers/main.class.php
+    [css] => app/views/main.css
+    [js] => app/controllers/main.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_main.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_main.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_main.js
+        )
+
+)
+
+
+
+2019-08-07 08:34:00: : PARENT OBJECT::TView
+
+
+2019-08-07 08:34:00: : PARENT OBJECT::Main
+
+
+2019-08-07 08:34:00: : CACHE FILE NAME TO INCLUDE: /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_main.class.php
+
+2019-08-07 08:34:00:phink/autoloader.php:200 : Phink\TAutoloader::includeClass::app/models/main.class.php
+
+2019-08-07 08:34:00: : URL: /token.html
+
+2019-08-07 08:34:00: : MATCHES: /token.html
+
+2019-08-07 08:34:00: : KEY: ^/master.html$
+
+2019-08-07 08:34:00: : URL: /token.html
+
+2019-08-07 08:34:00: : MATCHES: /token.html
+
+2019-08-07 08:34:00: : KEY: ^/home.html$
+
+2019-08-07 08:34:00: : URL: /token.html
+
+2019-08-07 08:34:00: : MATCHES: /token.html
+
+2019-08-07 08:34:00: : KEY: ^/grid.html$
+
+2019-08-07 08:34:00: : URL: /token.html
+
+2019-08-07 08:34:00: : MATCHES: /views/token.phtml?
+
+2019-08-07 08:34:00: : KEY: ^/token.html(\?([A-Z_]+))?$
+
+2019-08-07 08:34:00: : PATH::app/views/token.phtml
+
+
+2019-08-07 08:34:00: : BASEURL::Array
+(
+    [path] => /views/token.phtml
+)
+
+
+
+2019-08-07 08:34:00: : IS FOUND::TRUE
+
+
+2019-08-07 08:34:00: : PARAMETERS::Array
+(
+)
+
+
+
+2019-08-07 08:34:00: : TRANSLATED ROUTE::app/views/token.phtml
+
+2019-08-07 08:34:00: : TRANSLATED SRC ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/app/views/token.phtml
+
+2019-08-07 08:34:00: : TRANSLATED PHINK ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/app/views/token.phtml
+
+2019-08-07 08:34:00: : Phink\Auth\TAuthentication::renewToken::TOKEN::NTMyMTc2MDM5NWQ0YjE5OTgwOThiNA==
+
+2019-08-07 08:34:00: : MVC FILE NAMES FOR 123456789::Array
+(
+    [id] => noname
+    [name] => token
+    [view] => app/views/token.phtml
+    [controller] => app/controllers/token.class.php
+    [css] => app/views/token.css
+    [js] => app/controllers/token.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_token.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_token.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_token.js
+        )
+
+)
+
+
+
+2019-08-07 08:34:00:phink/autoloader.php:200 : Phink\TAutoloader::includeClass::app/controllers/token.class.php
+
+2019-08-07 08:34:00:phink/mvc/custom_view.php:131 : token IS REGISTERED : TRUE
+
+2019-08-07 08:34:00:phink/mvc/custom_view.php:138 : PARSE SRC ROOT FILE : app/views/token.phtml
+
+2019-08-07 08:34:00:phink/mvc/custom_view.php:200 : SOMETHING TO CACHE : /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_token.class.php
+
+2019-08-07 08:34:00: : PARENT OBJECT::TView
+
+
+2019-08-07 08:34:00: : PARENT OBJECT::Token
+
+
+2019-08-07 08:34:00: : CACHE FILE NAME TO INCLUDE: /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_token.class.php
+
+2019-08-07 08:34:00: : Phink\Core\TObject::invoke::INVOKE_ACTION::showToken()
+
+2019-08-07 08:36:50: : URL: /console
+
+2019-08-07 08:36:50: : MATCHES: /console
+
+2019-08-07 08:36:50: : KEY: ^/master.html$
+
+2019-08-07 08:36:50: : URL: /console
+
+2019-08-07 08:36:50: : MATCHES: /console
+
+2019-08-07 08:36:50: : KEY: ^/home.html$
+
+2019-08-07 08:36:50: : URL: /console
+
+2019-08-07 08:36:50: : MATCHES: /console
+
+2019-08-07 08:36:50: : KEY: ^/grid.html$
+
+2019-08-07 08:36:50: : URL: /console
+
+2019-08-07 08:36:50: : MATCHES: /console
+
+2019-08-07 08:36:50: : KEY: ^/token.html(\?([A-Z_]+))?$
+
+2019-08-07 08:36:50: : URL: /console
+
+2019-08-07 08:36:50: : MATCHES: @/console/console_window.phtml
+
+2019-08-07 08:36:50: : KEY: ^/console$
+
+2019-08-07 08:36:50: : PATH::vendor/phink/phink/src/apps/console/console_window.phtml
+
+
+2019-08-07 08:36:50: : BASEURL::Array
+(
+    [path] => @/console/console_window.phtml
+)
+
+
+
+2019-08-07 08:36:50: : IS FOUND::TRUE
+
+
+2019-08-07 08:36:50: : PARAMETERS::Array
+(
+)
+
+
+
+2019-08-07 08:36:50: : TRANSLATED ROUTE::vendor/phink/phink/src/apps/console/console_window.phtml
+
+2019-08-07 08:36:50: : TRANSLATED SRC ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/vendor/phink/phink/src/apps/console/console_window.phtml
+
+2019-08-07 08:36:50: : TRANSLATED PHINK ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/vendor/phink/phink/src/apps/console/console_window.phtml
+
+2019-08-07 08:36:50: : Phink\Auth\TAuthentication::renewToken::TOKEN::MTI5MzQ2NjM1MTVkNGIxOTk0NzkwYWE=
+
+2019-08-07 08:36:50: : MVC FILE NAMES FOR 123456789::Array
+(
+    [id] => noname
+    [name] => console_window
+    [view] => vendor/phink/phink/src/apps/console/console_window.phtml
+    [controller] => vendor/phink/phink/src/apps/console/console_window.class.php
+    [css] => vendor/phink/phink/src/apps/console/console_window.css
+    [js] => vendor/phink/phink/src/apps/console/console_window.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_console_window.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_console_window.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_console_window.js
+        )
+
+)
+
+
+
+2019-08-07 08:36:50: : PARENT OBJECT::TView
+
+
+2019-08-07 08:36:50: : PARENT OBJECT::Console_window
+
+
+2019-08-07 08:36:50: : CACHE FILE NAME TO INCLUDE: /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/vendor_phink_phink_src_apps_console_console_window.class.php
+
+2019-08-07 08:36:50: : Phink\Core\TObject::invoke::INVOKE_ACTION::clearRuntime()
+
+2019-08-08 07:11:43: : URL: /console
+
+2019-08-08 07:11:43: : MATCHES: /console
+
+2019-08-08 07:11:43: : KEY: ^/master.html$
+
+2019-08-08 07:11:43: : URL: /console
+
+2019-08-08 07:11:43: : MATCHES: /console
+
+2019-08-08 07:11:43: : KEY: ^/home.html$
+
+2019-08-08 07:11:43: : URL: /console
+
+2019-08-08 07:11:43: : MATCHES: /console
+
+2019-08-08 07:11:43: : KEY: ^/grid.html$
+
+2019-08-08 07:11:43: : URL: /console
+
+2019-08-08 07:11:43: : MATCHES: /console
+
+2019-08-08 07:11:43: : KEY: ^/token.html(\?([A-Z_]+))?$
+
+2019-08-08 07:11:43: : URL: /console
+
+2019-08-08 07:11:43: : MATCHES: @/console/console_window.phtml
+
+2019-08-08 07:11:43: : KEY: ^/console$
+
+2019-08-08 07:11:43: : PATH::vendor/phink/phink/src/apps/console/console_window.phtml
+
+
+2019-08-08 07:11:43: : BASEURL::Array
+(
+    [path] => @/console/console_window.phtml
+)
+
+
+
+2019-08-08 07:11:43: : IS FOUND::TRUE
+
+
+2019-08-08 07:11:43: : PARAMETERS::Array
+(
+)
+
+
+
+2019-08-08 07:11:43: : TRANSLATED ROUTE::vendor/phink/phink/src/apps/console/console_window.phtml
+
+2019-08-08 07:11:43: : TRANSLATED SRC ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/vendor/phink/phink/src/apps/console/console_window.phtml
+
+2019-08-08 07:11:43: : TRANSLATED PHINK ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/vendor/phink/phink/src/apps/console/console_window.phtml
+
+2019-08-08 07:11:43: : Phink\Auth\TAuthentication::renewToken::TOKEN::NjI1MzQ4NjM2NWQ0YjFhNDJjMzE5Yw==
+
+2019-08-08 07:11:43: : MVC FILE NAMES FOR 5d4c57cf67d8f9.86535486::
+
+
+2019-08-08 07:11:43:phink/autoloader.php:200 : Phink\TAutoloader::includeClass::vendor/phink/phink/src/apps/console/console_window.class.php
+
+2019-08-08 07:11:43:phink/mvc/custom_view.php:131 : console_window IS REGISTERED : TRUE
+
+2019-08-08 07:11:43:phink/mvc/custom_view.php:143 : PARSE SITE ROOT FILE : vendor/phink/phink/src/apps/console/console_window.phtml
+
+2019-08-08 07:11:43:phink/mvc/custom_view.php:154 : PARSE PHINK VIEW : /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/vendor/phink/phink/src/apps/console/console_window.phtml
+
+2019-08-08 07:11:43: : copy(/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/vendor/phink/phink/src/apps/console/console_window.js, /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/web/js/runtime/app_controllers_console_window.js)
+
+2019-08-08 07:11:43:phink/mvc/custom_view.php:200 : SOMETHING TO CACHE : /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/vendor_phink_phink_src_apps_console_console_window.class.php
+
+2019-08-08 07:11:43: : PARENT OBJECT::TView
+
+
+2019-08-08 07:11:43: : PARENT OBJECT::Console_window
+
+
+2019-08-08 07:11:43: : CACHE FILE NAME TO INCLUDE: /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/vendor_phink_phink_src_apps_console_console_window.class.php
+
+2019-08-08 07:11:43: : Phink\Core\TObject::invoke::INVOKE_ACTION::clearRuntime()
+
+2019-08-08 08:13:07: : URL: /
+
+2019-08-08 08:13:07: : MATCHES: /views/main.phtml
+
+2019-08-08 08:13:07: : KEY: ^/$
+
+2019-08-08 08:13:07: : PATH::app/views/main.phtml
+
+
+2019-08-08 08:13:07: : BASEURL::Array
+(
+    [path] => /views/main.phtml
+)
+
+
+
+2019-08-08 08:13:07: : IS FOUND::TRUE
+
+
+2019-08-08 08:13:07: : PARAMETERS::Array
+(
+)
+
+
+
+2019-08-08 08:13:07: : TRANSLATED ROUTE::app/views/main.phtml
+
+2019-08-08 08:13:07: : TRANSLATED SRC ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/app/views/main.phtml
+
+2019-08-08 08:13:07: : TRANSLATED PHINK ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/app/views/main.phtml
+
+2019-08-08 08:13:07: : Phink\Auth\TAuthentication::renewToken::TOKEN::
+
+2019-08-08 08:13:07: : MVC FILE NAMES FOR 5d4c6633a48947.97661458::Array
+(
+    [parentUID] => 
+    [id] => noname
+    [name] => main
+    [view] => app/views/main.phtml
+    [controller] => app/controllers/main.class.php
+    [css] => app/views/main.css
+    [js] => app/controllers/main.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_main.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_main.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_main.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:07:phink/autoloader.php:200 : Phink\TAutoloader::includeClass::app/controllers/main.class.php
+
+2019-08-08 08:13:07:phink/mvc/custom_view.php:131 : main IS REGISTERED : TRUE
+
+2019-08-08 08:13:07:phink/mvc/custom_view.php:138 : PARSE SRC ROOT FILE : app/views/main.phtml
+
+2019-08-08 08:13:07:phink/mvc/custom_view.php:200 : SOMETHING TO CACHE : /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_main.class.php
+
+2019-08-08 08:13:07: : PARENT OBJECT::TView
+
+
+2019-08-08 08:13:07: : PARENT OBJECT::Main
+
+
+2019-08-08 08:13:07: : CACHE FILE NAME TO INCLUDE: /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_main.class.php
+
+2019-08-08 08:13:07:phink/autoloader.php:200 : Phink\TAutoloader::includeClass::app/models/main.class.php
+
+2019-08-08 08:13:07: : URL: /master.html
+
+2019-08-08 08:13:07: : MATCHES: /views/master.phtml
+
+2019-08-08 08:13:07: : KEY: ^/master.html$
+
+2019-08-08 08:13:07: : PATH::app/views/master.phtml
+
+
+2019-08-08 08:13:07: : BASEURL::Array
+(
+    [path] => /views/master.phtml
+)
+
+
+
+2019-08-08 08:13:07: : IS FOUND::TRUE
+
+
+2019-08-08 08:13:07: : PARAMETERS::Array
+(
+)
+
+
+
+2019-08-08 08:13:07: : TRANSLATED ROUTE::app/views/master.phtml
+
+2019-08-08 08:13:07: : TRANSLATED SRC ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/app/views/master.phtml
+
+2019-08-08 08:13:07: : TRANSLATED PHINK ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/app/views/master.phtml
+
+2019-08-08 08:13:07: : Phink\Auth\TAuthentication::renewToken::TOKEN::undefined
+
+2019-08-08 08:13:08: : MVC FILE NAMES FOR 5d4c663401ef81.96689625::Array
+(
+    [parentUID] => 
+    [id] => noname
+    [name] => master
+    [view] => app/views/master.phtml
+    [controller] => app/controllers/master.class.php
+    [css] => app/views/master.css
+    [js] => app/controllers/master.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_master.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_master.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_master.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:08:phink/mvc/custom_view.php:131 : master IS REGISTERED : TRUE
+
+2019-08-08 08:13:08:phink/mvc/custom_view.php:138 : PARSE SRC ROOT FILE : app/views/master.phtml
+
+2019-08-08 08:13:08:phink/mvc/custom_view.php:200 : SOMETHING TO CACHE : /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_master.class.php
+
+2019-08-08 08:13:08: : PARENT OBJECT::TView
+
+
+2019-08-08 08:13:08: : PARENT OBJECT::Master
+
+
+2019-08-08 08:13:08: : CACHE FILE NAME TO INCLUDE: /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_master.class.php
+
+2019-08-08 08:13:08: : Phink\Core\TObject::invoke::INVOKE_ACTION::getViewHtml()
+
+2019-08-08 08:13:08: : URL: /home.html
+
+2019-08-08 08:13:08: : MATCHES: /home.html
+
+2019-08-08 08:13:08: : KEY: ^/master.html$
+
+2019-08-08 08:13:08: : URL: /home.html
+
+2019-08-08 08:13:08: : MATCHES: /views/home.phtml
+
+2019-08-08 08:13:08: : KEY: ^/home.html$
+
+2019-08-08 08:13:08: : PATH::app/views/home.phtml
+
+
+2019-08-08 08:13:08: : BASEURL::Array
+(
+    [path] => /views/home.phtml
+)
+
+
+
+2019-08-08 08:13:08: : IS FOUND::TRUE
+
+
+2019-08-08 08:13:08: : PARAMETERS::Array
+(
+)
+
+
+
+2019-08-08 08:13:08: : TRANSLATED ROUTE::app/views/home.phtml
+
+2019-08-08 08:13:08: : TRANSLATED SRC ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/app/views/home.phtml
+
+2019-08-08 08:13:08: : TRANSLATED PHINK ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/app/views/home.phtml
+
+2019-08-08 08:13:08: : Phink\Auth\TAuthentication::renewToken::TOKEN::NjU5NjE5MzEyNWQ0YzY2MzQwMGQ3ZQ==
+
+2019-08-08 08:13:08: : MVC FILE NAMES FOR 5d4c6634124892.09525339::Array
+(
+    [parentUID] => 
+    [id] => noname
+    [name] => home
+    [view] => app/views/home.phtml
+    [controller] => app/controllers/home.class.php
+    [css] => app/views/home.css
+    [js] => app/controllers/home.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_home.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_home.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_home.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:08:phink/autoloader.php:200 : Phink\TAutoloader::includeClass::app/controllers/home.class.php
+
+2019-08-08 08:13:08:phink/mvc/custom_view.php:131 : home IS REGISTERED : TRUE
+
+2019-08-08 08:13:08:phink/mvc/custom_view.php:138 : PARSE SRC ROOT FILE : app/views/home.phtml
+
+2019-08-08 08:13:08: : FULL_CLASS_PATH::app/controllers/dummy.class.php
+
+
+2019-08-08 08:13:08:phink/autoloader.php:200 : Phink\TAutoloader::includeClass::app/controllers/dummy.class.php
+
+2019-08-08 08:13:08: : FULL_QUALIFIED_CLASS_NAME: ::Something\Dummy
+
+
+2019-08-08 08:13:08: : FULL_CLASS_PATH::app/controllers/grid.class.php
+
+
+2019-08-08 08:13:08:phink/autoloader.php:200 : Phink\TAutoloader::includeClass::app/controllers/grid.class.php
+
+2019-08-08 08:13:08: : FULL_QUALIFIED_CLASS_NAME: ::Nidus\Controllers\Grid
+
+
+2019-08-08 08:13:08:phink/mvc/custom_view.php:200 : SOMETHING TO CACHE : /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_home.class.php
+
+2019-08-08 08:13:08: : PARENT OBJECT::TView
+
+
+2019-08-08 08:13:08: : PARENT OBJECT::Home
+
+
+2019-08-08 08:13:08: : CACHE FILE NAME TO INCLUDE: /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_home.class.php
+
+2019-08-08 08:13:08:phink/autoloader.php:200 : Phink\TAutoloader::includeClass::app/models/home.class.php
+
+2019-08-08 08:13:08: : CLASS INFO::Dummy::
+
+
+2019-08-08 08:13:08:phink/autoloader.php:315 : CACHED JS FILENAME: 
+
+2019-08-08 08:13:08: : PARSING dummy!!!
+
+2019-08-08 08:13:08: : MVC FILE NAMES FOR 17605866465d4c6634179291.83420603::Array
+(
+    [parentUID] => 10026682245d4c66341615d5.08383587
+    [id] => noname
+    [name] => dummy
+    [view] => app/views/dummy.phtml
+    [controller] => app/controllers/dummy.class.php
+    [css] => app/views/dummy.css
+    [js] => app/controllers/dummy.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_dummy.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_dummy.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_dummy.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:08:phink/autoloader.php:200 : Phink\TAutoloader::includeClass::app/controllers/dummy.class.php
+
+2019-08-08 08:13:08:phink/autoloader.php:353 : app/controllers/dummy.class.php IS REGISTERED : TRUE
+
+2019-08-08 08:13:08: : CONTROLLER FILE NAME OF THE PARSED VIEW: app/controllers/dummy.class.php
+
+2019-08-08 08:13:08:phink/mvc/custom_view.php:131 : dummy IS REGISTERED : TRUE
+
+2019-08-08 08:13:08:phink/mvc/custom_view.php:138 : PARSE SRC ROOT FILE : app/views/dummy.phtml
+
+2019-08-08 08:13:08:phink/mvc/custom_view.php:200 : SOMETHING TO CACHE : /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_dummy.class.php
+
+2019-08-08 08:13:08: : CACHE FILE NAME OF THE PARSED VIEW: /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_dummy.class.php
+
+2019-08-08 08:13:08: : ROOT CACHE FILE NAME OF THE PARSED VIEW: /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_dummy.class.php
+
+2019-08-08 08:13:08: : CLASS INFO::Grid::
+
+
+2019-08-08 08:13:08:phink/autoloader.php:315 : CACHED JS FILENAME: 
+
+2019-08-08 08:13:08: : PARSING grid!!!
+
+2019-08-08 08:13:08: : MVC FILE NAMES FOR 5356221105d4c663418d7a2.45916722::Array
+(
+    [parentUID] => 10026682245d4c66341615d5.08383587
+    [id] => noname
+    [name] => grid
+    [view] => app/views/grid.phtml
+    [controller] => app/controllers/grid.class.php
+    [css] => app/views/grid.css
+    [js] => app/controllers/grid.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_grid.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_grid.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_grid.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:08:phink/autoloader.php:200 : Phink\TAutoloader::includeClass::app/controllers/grid.class.php
+
+2019-08-08 08:13:08:phink/autoloader.php:353 : app/controllers/grid.class.php IS REGISTERED : TRUE
+
+2019-08-08 08:13:08: : CONTROLLER FILE NAME OF THE PARSED VIEW: app/controllers/grid.class.php
+
+2019-08-08 08:13:08:phink/mvc/custom_view.php:131 : grid IS REGISTERED : TRUE
+
+2019-08-08 08:13:08:phink/mvc/custom_view.php:138 : PARSE SRC ROOT FILE : app/views/grid.phtml
+
+2019-08-08 08:13:08:phink/mvc/custom_view.php:200 : SOMETHING TO CACHE : /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_grid.class.php
+
+2019-08-08 08:13:08: : CACHE FILE NAME OF THE PARSED VIEW: /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_grid.class.php
+
+2019-08-08 08:13:08: : ROOT CACHE FILE NAME OF THE PARSED VIEW: /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_grid.class.php
+
+2019-08-08 08:13:08:phink/autoloader.php:200 : Phink\TAutoloader::includeClass::app/models/grid.class.php
+
+2019-08-08 08:13:08: : Phink\Core\TObject::invoke::INVOKE_ACTION::getViewHtml()
+
+2019-08-08 08:13:08: : MVC FILE NAMES FOR 5616931785d4c66341fc8b4.92619243::Array
+(
+    [parentUID] => 11346142465d4c66341fba17.35451846
+    [id] => noname
+    [name] => pager
+    [view] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.phtml
+    [controller] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.class.php
+    [css] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.css
+    [js] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_pager.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_pager.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_pager.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:08: : MVC FILE NAMES FOR 11027123225d4c663429f1b2.90826207::Array
+(
+    [parentUID] => 187160685d4c663429e6b0.60882074
+    [id] => noname
+    [name] => plugin
+    [view] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.phtml
+    [controller] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.class.php
+    [css] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.css
+    [js] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_plugin.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_plugin.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_plugin.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:08:phink/mvc/custom_controller.php:74 : CACHE FILE NAME IF EXISTS : /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/vendor_phink_phink_src_phink_web_ui_widget_pager_pager.class.php
+
+2019-08-08 08:13:08:phink/mvc/custom_controller.php:77 : TRUE
+
+2019-08-08 08:13:08:phink/mvc/custom_view.php:131 : pager IS REGISTERED : FALSE
+
+2019-08-08 08:13:08:phink/mvc/custom_view.php:143 : PARSE SITE ROOT FILE : vendor/phink/phink/src/phink/web/ui/widget/pager/pager.phtml
+
+2019-08-08 08:13:08:phink/mvc/custom_view.php:186 : NO NEED TO WRITE CODE: vendor/phink/phink/src/phink/web/ui/widget/pager/pager.class.php
+
+2019-08-08 08:13:08:phink/mvc/custom_controller.php:74 : CACHE FILE NAME IF EXISTS : /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/vendor_phink_phink_src_phink_web_ui_widget_plugin_plugin.class.php
+
+2019-08-08 08:13:08:phink/mvc/custom_controller.php:77 : TRUE
+
+2019-08-08 08:13:08:phink/mvc/custom_view.php:131 : plugin IS REGISTERED : FALSE
+
+2019-08-08 08:13:08:phink/mvc/custom_view.php:143 : PARSE SITE ROOT FILE : vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.phtml
+
+2019-08-08 08:13:08:phink/mvc/custom_view.php:186 : NO NEED TO WRITE CODE: vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.class.php
+
+2019-08-08 08:13:08: : URL: /
+
+2019-08-08 08:13:08: : MATCHES: /views/main.phtml
+
+2019-08-08 08:13:08: : KEY: ^/$
+
+2019-08-08 08:13:08: : PATH::app/views/main.phtml
+
+
+2019-08-08 08:13:08: : BASEURL::Array
+(
+    [path] => /views/main.phtml
+)
+
+
+
+2019-08-08 08:13:08: : IS FOUND::TRUE
+
+
+2019-08-08 08:13:08: : PARAMETERS::Array
+(
+)
+
+
+
+2019-08-08 08:13:08: : TRANSLATED ROUTE::app/views/main.phtml
+
+2019-08-08 08:13:08: : TRANSLATED SRC ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/app/views/main.phtml
+
+2019-08-08 08:13:08: : TRANSLATED PHINK ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/app/views/main.phtml
+
+2019-08-08 08:13:08: : Phink\Auth\TAuthentication::renewToken::TOKEN::
+
+2019-08-08 08:13:08: : MVC FILE NAMES FOR 5d4c6634577866.05589727::Array
+(
+    [parentUID] => 
+    [id] => noname
+    [name] => main
+    [view] => app/views/main.phtml
+    [controller] => app/controllers/main.class.php
+    [css] => app/views/main.css
+    [js] => app/controllers/main.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_main.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_main.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_main.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:08: : PARENT OBJECT::TView
+
+
+2019-08-08 08:13:08: : PARENT OBJECT::Main
+
+
+2019-08-08 08:13:08: : CACHE FILE NAME TO INCLUDE: /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_main.class.php
+
+2019-08-08 08:13:08:phink/autoloader.php:200 : Phink\TAutoloader::includeClass::app/models/main.class.php
+
+2019-08-08 08:13:08: : URL: /token.html
+
+2019-08-08 08:13:08: : MATCHES: /token.html
+
+2019-08-08 08:13:08: : KEY: ^/master.html$
+
+2019-08-08 08:13:08: : URL: /token.html
+
+2019-08-08 08:13:08: : MATCHES: /token.html
+
+2019-08-08 08:13:08: : KEY: ^/home.html$
+
+2019-08-08 08:13:08: : URL: /token.html
+
+2019-08-08 08:13:08: : MATCHES: /token.html
+
+2019-08-08 08:13:08: : KEY: ^/grid.html$
+
+2019-08-08 08:13:08: : URL: /token.html
+
+2019-08-08 08:13:08: : MATCHES: /views/token.phtml?
+
+2019-08-08 08:13:08: : KEY: ^/token.html(\?([A-Z_]+))?$
+
+2019-08-08 08:13:08: : PATH::app/views/token.phtml
+
+
+2019-08-08 08:13:08: : BASEURL::Array
+(
+    [path] => /views/token.phtml
+)
+
+
+
+2019-08-08 08:13:08: : IS FOUND::TRUE
+
+
+2019-08-08 08:13:08: : PARAMETERS::Array
+(
+)
+
+
+
+2019-08-08 08:13:08: : TRANSLATED ROUTE::app/views/token.phtml
+
+2019-08-08 08:13:08: : TRANSLATED SRC ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/app/views/token.phtml
+
+2019-08-08 08:13:08: : TRANSLATED PHINK ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/app/views/token.phtml
+
+2019-08-08 08:13:08: : Phink\Auth\TAuthentication::renewToken::TOKEN::NTA2MjM5Nzc3NWQ0YzY2MzQxMTdmMw==
+
+2019-08-08 08:13:08: : MVC FILE NAMES FOR 5d4c66346348a1.81007196::Array
+(
+    [parentUID] => 
+    [id] => noname
+    [name] => token
+    [view] => app/views/token.phtml
+    [controller] => app/controllers/token.class.php
+    [css] => app/views/token.css
+    [js] => app/controllers/token.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_token.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_token.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_token.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:08:phink/autoloader.php:200 : Phink\TAutoloader::includeClass::app/controllers/token.class.php
+
+2019-08-08 08:13:08:phink/mvc/custom_view.php:131 : token IS REGISTERED : TRUE
+
+2019-08-08 08:13:08:phink/mvc/custom_view.php:138 : PARSE SRC ROOT FILE : app/views/token.phtml
+
+2019-08-08 08:13:08:phink/mvc/custom_view.php:200 : SOMETHING TO CACHE : /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_token.class.php
+
+2019-08-08 08:13:08: : PARENT OBJECT::TView
+
+
+2019-08-08 08:13:08: : PARENT OBJECT::Token
+
+
+2019-08-08 08:13:08: : CACHE FILE NAME TO INCLUDE: /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_token.class.php
+
+2019-08-08 08:13:08: : Phink\Core\TObject::invoke::INVOKE_ACTION::showToken()
+
+2019-08-08 08:13:10: : URL: /token.html
+
+2019-08-08 08:13:10: : MATCHES: /token.html
+
+2019-08-08 08:13:10: : KEY: ^/master.html$
+
+2019-08-08 08:13:10: : URL: /token.html
+
+2019-08-08 08:13:10: : MATCHES: /token.html
+
+2019-08-08 08:13:10: : KEY: ^/home.html$
+
+2019-08-08 08:13:10: : URL: /token.html
+
+2019-08-08 08:13:10: : MATCHES: /token.html
+
+2019-08-08 08:13:10: : KEY: ^/grid.html$
+
+2019-08-08 08:13:10: : URL: /token.html
+
+2019-08-08 08:13:10: : MATCHES: /views/token.phtml?
+
+2019-08-08 08:13:10: : KEY: ^/token.html(\?([A-Z_]+))?$
+
+2019-08-08 08:13:10: : PATH::app/views/token.phtml
+
+
+2019-08-08 08:13:10: : BASEURL::Array
+(
+    [path] => /views/token.phtml
+)
+
+
+
+2019-08-08 08:13:10: : IS FOUND::TRUE
+
+
+2019-08-08 08:13:10: : PARAMETERS::Array
+(
+)
+
+
+
+2019-08-08 08:13:10: : TRANSLATED ROUTE::app/views/token.phtml
+
+2019-08-08 08:13:10: : TRANSLATED SRC ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/app/views/token.phtml
+
+2019-08-08 08:13:10: : TRANSLATED PHINK ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/app/views/token.phtml
+
+2019-08-08 08:13:10: : Phink\Auth\TAuthentication::renewToken::TOKEN::Njg2Nzc2MzMxNWQ0YzY2MzQ2MjdlYg==
+
+2019-08-08 08:13:10: : MVC FILE NAMES FOR 5d4c66361506e5.39203151::Array
+(
+    [parentUID] => 
+    [id] => noname
+    [name] => token
+    [view] => app/views/token.phtml
+    [controller] => app/controllers/token.class.php
+    [css] => app/views/token.css
+    [js] => app/controllers/token.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_token.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_token.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_token.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:10: : PARENT OBJECT::TView
+
+
+2019-08-08 08:13:10: : PARENT OBJECT::Token
+
+
+2019-08-08 08:13:10: : CACHE FILE NAME TO INCLUDE: /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_token.class.php
+
+2019-08-08 08:13:10: : Phink\Core\TObject::invoke::INVOKE_ACTION::showToken()
+
+2019-08-08 08:13:10: : URL: /token.html
+
+2019-08-08 08:13:10: : MATCHES: /token.html
+
+2019-08-08 08:13:10: : KEY: ^/master.html$
+
+2019-08-08 08:13:10: : URL: /token.html
+
+2019-08-08 08:13:10: : MATCHES: /token.html
+
+2019-08-08 08:13:10: : KEY: ^/home.html$
+
+2019-08-08 08:13:10: : URL: /token.html
+
+2019-08-08 08:13:10: : MATCHES: /token.html
+
+2019-08-08 08:13:10: : KEY: ^/grid.html$
+
+2019-08-08 08:13:10: : URL: /token.html
+
+2019-08-08 08:13:10: : MATCHES: /views/token.phtml?
+
+2019-08-08 08:13:10: : KEY: ^/token.html(\?([A-Z_]+))?$
+
+2019-08-08 08:13:10: : PATH::app/views/token.phtml
+
+
+2019-08-08 08:13:10: : BASEURL::Array
+(
+    [path] => /views/token.phtml
+)
+
+
+
+2019-08-08 08:13:10: : IS FOUND::TRUE
+
+
+2019-08-08 08:13:10: : PARAMETERS::Array
+(
+)
+
+
+
+2019-08-08 08:13:10: : TRANSLATED ROUTE::app/views/token.phtml
+
+2019-08-08 08:13:10: : TRANSLATED SRC ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/app/views/token.phtml
+
+2019-08-08 08:13:10: : TRANSLATED PHINK ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/app/views/token.phtml
+
+2019-08-08 08:13:10: : Phink\Auth\TAuthentication::renewToken::TOKEN::MTM1MjM2NTU0NDVkNGM2NjM2MTNmZTk=
+
+2019-08-08 08:13:10: : MVC FILE NAMES FOR 5d4c663667b563.92725193::Array
+(
+    [parentUID] => 
+    [id] => noname
+    [name] => token
+    [view] => app/views/token.phtml
+    [controller] => app/controllers/token.class.php
+    [css] => app/views/token.css
+    [js] => app/controllers/token.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_token.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_token.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_token.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:10: : PARENT OBJECT::TView
+
+
+2019-08-08 08:13:10: : PARENT OBJECT::Token
+
+
+2019-08-08 08:13:10: : CACHE FILE NAME TO INCLUDE: /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_token.class.php
+
+2019-08-08 08:13:10: : Phink\Core\TObject::invoke::INVOKE_ACTION::showToken()
+
+2019-08-08 08:13:10: : URL: /token.html
+
+2019-08-08 08:13:10: : MATCHES: /token.html
+
+2019-08-08 08:13:10: : KEY: ^/master.html$
+
+2019-08-08 08:13:10: : URL: /token.html
+
+2019-08-08 08:13:10: : MATCHES: /token.html
+
+2019-08-08 08:13:10: : KEY: ^/home.html$
+
+2019-08-08 08:13:10: : URL: /token.html
+
+2019-08-08 08:13:10: : MATCHES: /token.html
+
+2019-08-08 08:13:10: : KEY: ^/grid.html$
+
+2019-08-08 08:13:10: : URL: /token.html
+
+2019-08-08 08:13:10: : MATCHES: /views/token.phtml?
+
+2019-08-08 08:13:10: : KEY: ^/token.html(\?([A-Z_]+))?$
+
+2019-08-08 08:13:10: : PATH::app/views/token.phtml
+
+
+2019-08-08 08:13:10: : BASEURL::Array
+(
+    [path] => /views/token.phtml
+)
+
+
+
+2019-08-08 08:13:10: : IS FOUND::TRUE
+
+
+2019-08-08 08:13:10: : PARAMETERS::Array
+(
+)
+
+
+
+2019-08-08 08:13:10: : TRANSLATED ROUTE::app/views/token.phtml
+
+2019-08-08 08:13:10: : TRANSLATED SRC ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/app/views/token.phtml
+
+2019-08-08 08:13:10: : TRANSLATED PHINK ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/app/views/token.phtml
+
+2019-08-08 08:13:10: : Phink\Auth\TAuthentication::renewToken::TOKEN::NzI0NDUwNTA4NWQ0YzY2MzY2NmZiMg==
+
+2019-08-08 08:13:10: : MVC FILE NAMES FOR 5d4c6636b64e77.71020556::Array
+(
+    [parentUID] => 
+    [id] => noname
+    [name] => token
+    [view] => app/views/token.phtml
+    [controller] => app/controllers/token.class.php
+    [css] => app/views/token.css
+    [js] => app/controllers/token.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_token.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_token.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_token.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:10: : PARENT OBJECT::TView
+
+
+2019-08-08 08:13:10: : PARENT OBJECT::Token
+
+
+2019-08-08 08:13:10: : CACHE FILE NAME TO INCLUDE: /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_token.class.php
+
+2019-08-08 08:13:10: : Phink\Core\TObject::invoke::INVOKE_ACTION::showToken()
+
+2019-08-08 08:13:10: : URL: /token.html
+
+2019-08-08 08:13:10: : MATCHES: /token.html
+
+2019-08-08 08:13:10: : KEY: ^/master.html$
+
+2019-08-08 08:13:10: : URL: /token.html
+
+2019-08-08 08:13:10: : MATCHES: /token.html
+
+2019-08-08 08:13:10: : KEY: ^/home.html$
+
+2019-08-08 08:13:10: : URL: /token.html
+
+2019-08-08 08:13:10: : MATCHES: /token.html
+
+2019-08-08 08:13:10: : KEY: ^/grid.html$
+
+2019-08-08 08:13:10: : URL: /token.html
+
+2019-08-08 08:13:11: : MATCHES: /views/token.phtml?
+
+2019-08-08 08:13:11: : KEY: ^/token.html(\?([A-Z_]+))?$
+
+2019-08-08 08:13:11: : PATH::app/views/token.phtml
+
+
+2019-08-08 08:13:11: : BASEURL::Array
+(
+    [path] => /views/token.phtml
+)
+
+
+
+2019-08-08 08:13:11: : IS FOUND::TRUE
+
+
+2019-08-08 08:13:11: : PARAMETERS::Array
+(
+)
+
+
+
+2019-08-08 08:13:11: : TRANSLATED ROUTE::app/views/token.phtml
+
+2019-08-08 08:13:11: : TRANSLATED SRC ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/app/views/token.phtml
+
+2019-08-08 08:13:11: : TRANSLATED PHINK ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/app/views/token.phtml
+
+2019-08-08 08:13:11: : Phink\Auth\TAuthentication::renewToken::TOKEN::MTgwMjkwMTI5MzVkNGM2NjM2YjU2YjU=
+
+2019-08-08 08:13:11: : MVC FILE NAMES FOR 5d4c663702ea63.28784949::Array
+(
+    [parentUID] => 
+    [id] => noname
+    [name] => token
+    [view] => app/views/token.phtml
+    [controller] => app/controllers/token.class.php
+    [css] => app/views/token.css
+    [js] => app/controllers/token.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_token.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_token.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_token.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:11: : PARENT OBJECT::TView
+
+
+2019-08-08 08:13:11: : PARENT OBJECT::Token
+
+
+2019-08-08 08:13:11: : CACHE FILE NAME TO INCLUDE: /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_token.class.php
+
+2019-08-08 08:13:11: : Phink\Core\TObject::invoke::INVOKE_ACTION::showToken()
+
+2019-08-08 08:13:11: : URL: /token.html
+
+2019-08-08 08:13:11: : MATCHES: /token.html
+
+2019-08-08 08:13:11: : KEY: ^/master.html$
+
+2019-08-08 08:13:11: : URL: /token.html
+
+2019-08-08 08:13:11: : MATCHES: /token.html
+
+2019-08-08 08:13:11: : KEY: ^/home.html$
+
+2019-08-08 08:13:11: : URL: /token.html
+
+2019-08-08 08:13:11: : MATCHES: /token.html
+
+2019-08-08 08:13:11: : KEY: ^/grid.html$
+
+2019-08-08 08:13:11: : URL: /token.html
+
+2019-08-08 08:13:11: : MATCHES: /views/token.phtml?
+
+2019-08-08 08:13:11: : KEY: ^/token.html(\?([A-Z_]+))?$
+
+2019-08-08 08:13:11: : PATH::app/views/token.phtml
+
+
+2019-08-08 08:13:11: : BASEURL::Array
+(
+    [path] => /views/token.phtml
+)
+
+
+
+2019-08-08 08:13:11: : IS FOUND::TRUE
+
+
+2019-08-08 08:13:11: : PARAMETERS::Array
+(
+)
+
+
+
+2019-08-08 08:13:11: : TRANSLATED ROUTE::app/views/token.phtml
+
+2019-08-08 08:13:11: : TRANSLATED SRC ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/app/views/token.phtml
+
+2019-08-08 08:13:11: : TRANSLATED PHINK ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/app/views/token.phtml
+
+2019-08-08 08:13:11: : Phink\Auth\TAuthentication::renewToken::TOKEN::NTI3MzM0MzIxNWQ0YzY2MzcwMjA3Ng==
+
+2019-08-08 08:13:11: : MVC FILE NAMES FOR 5d4c66372f6242.79028546::Array
+(
+    [parentUID] => 
+    [id] => noname
+    [name] => token
+    [view] => app/views/token.phtml
+    [controller] => app/controllers/token.class.php
+    [css] => app/views/token.css
+    [js] => app/controllers/token.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_token.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_token.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_token.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:11: : PARENT OBJECT::TView
+
+
+2019-08-08 08:13:11: : PARENT OBJECT::Token
+
+
+2019-08-08 08:13:11: : CACHE FILE NAME TO INCLUDE: /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_token.class.php
+
+2019-08-08 08:13:11: : Phink\Core\TObject::invoke::INVOKE_ACTION::showToken()
+
+2019-08-08 08:13:11: : URL: /token.html
+
+2019-08-08 08:13:11: : MATCHES: /token.html
+
+2019-08-08 08:13:11: : KEY: ^/master.html$
+
+2019-08-08 08:13:11: : URL: /token.html
+
+2019-08-08 08:13:11: : MATCHES: /token.html
+
+2019-08-08 08:13:11: : KEY: ^/home.html$
+
+2019-08-08 08:13:11: : URL: /token.html
+
+2019-08-08 08:13:11: : MATCHES: /token.html
+
+2019-08-08 08:13:11: : KEY: ^/grid.html$
+
+2019-08-08 08:13:11: : URL: /token.html
+
+2019-08-08 08:13:11: : MATCHES: /views/token.phtml?
+
+2019-08-08 08:13:11: : KEY: ^/token.html(\?([A-Z_]+))?$
+
+2019-08-08 08:13:11: : PATH::app/views/token.phtml
+
+
+2019-08-08 08:13:11: : BASEURL::Array
+(
+    [path] => /views/token.phtml
+)
+
+
+
+2019-08-08 08:13:11: : IS FOUND::TRUE
+
+
+2019-08-08 08:13:11: : PARAMETERS::Array
+(
+)
+
+
+
+2019-08-08 08:13:11: : TRANSLATED ROUTE::app/views/token.phtml
+
+2019-08-08 08:13:11: : TRANSLATED SRC ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/app/views/token.phtml
+
+2019-08-08 08:13:11: : TRANSLATED PHINK ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/app/views/token.phtml
+
+2019-08-08 08:13:11: : Phink\Auth\TAuthentication::renewToken::TOKEN::NTE0ODA3MzA4NWQ0YzY2MzcyZTkwMg==
+
+2019-08-08 08:13:11: : MVC FILE NAMES FOR 5d4c663752af68.25359848::Array
+(
+    [parentUID] => 
+    [id] => noname
+    [name] => token
+    [view] => app/views/token.phtml
+    [controller] => app/controllers/token.class.php
+    [css] => app/views/token.css
+    [js] => app/controllers/token.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_token.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_token.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_token.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:11: : PARENT OBJECT::TView
+
+
+2019-08-08 08:13:11: : PARENT OBJECT::Token
+
+
+2019-08-08 08:13:11: : CACHE FILE NAME TO INCLUDE: /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_token.class.php
+
+2019-08-08 08:13:11: : Phink\Core\TObject::invoke::INVOKE_ACTION::showToken()
+
+2019-08-08 08:13:11: : URL: /token.html
+
+2019-08-08 08:13:11: : MATCHES: /token.html
+
+2019-08-08 08:13:11: : KEY: ^/master.html$
+
+2019-08-08 08:13:11: : URL: /token.html
+
+2019-08-08 08:13:11: : MATCHES: /token.html
+
+2019-08-08 08:13:11: : KEY: ^/home.html$
+
+2019-08-08 08:13:11: : URL: /token.html
+
+2019-08-08 08:13:11: : MATCHES: /token.html
+
+2019-08-08 08:13:11: : KEY: ^/grid.html$
+
+2019-08-08 08:13:11: : URL: /token.html
+
+2019-08-08 08:13:11: : MATCHES: /views/token.phtml?
+
+2019-08-08 08:13:11: : KEY: ^/token.html(\?([A-Z_]+))?$
+
+2019-08-08 08:13:11: : PATH::app/views/token.phtml
+
+
+2019-08-08 08:13:11: : BASEURL::Array
+(
+    [path] => /views/token.phtml
+)
+
+
+
+2019-08-08 08:13:11: : IS FOUND::TRUE
+
+
+2019-08-08 08:13:11: : PARAMETERS::Array
+(
+)
+
+
+
+2019-08-08 08:13:11: : TRANSLATED ROUTE::app/views/token.phtml
+
+2019-08-08 08:13:11: : TRANSLATED SRC ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/app/views/token.phtml
+
+2019-08-08 08:13:11: : TRANSLATED PHINK ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/app/views/token.phtml
+
+2019-08-08 08:13:11: : Phink\Auth\TAuthentication::renewToken::TOKEN::NDk4ODc2NTc5NWQ0YzY2Mzc1MTM2Yw==
+
+2019-08-08 08:13:11: : MVC FILE NAMES FOR 5d4c66377e0db1.38931909::Array
+(
+    [parentUID] => 
+    [id] => noname
+    [name] => token
+    [view] => app/views/token.phtml
+    [controller] => app/controllers/token.class.php
+    [css] => app/views/token.css
+    [js] => app/controllers/token.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_token.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_token.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_token.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:11: : PARENT OBJECT::TView
+
+
+2019-08-08 08:13:11: : PARENT OBJECT::Token
+
+
+2019-08-08 08:13:11: : CACHE FILE NAME TO INCLUDE: /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_token.class.php
+
+2019-08-08 08:13:11: : Phink\Core\TObject::invoke::INVOKE_ACTION::showToken()
+
+2019-08-08 08:13:11: : URL: /token.html
+
+2019-08-08 08:13:11: : MATCHES: /token.html
+
+2019-08-08 08:13:11: : KEY: ^/master.html$
+
+2019-08-08 08:13:11: : URL: /token.html
+
+2019-08-08 08:13:11: : MATCHES: /token.html
+
+2019-08-08 08:13:11: : KEY: ^/home.html$
+
+2019-08-08 08:13:11: : URL: /token.html
+
+2019-08-08 08:13:11: : MATCHES: /token.html
+
+2019-08-08 08:13:11: : KEY: ^/grid.html$
+
+2019-08-08 08:13:11: : URL: /token.html
+
+2019-08-08 08:13:11: : MATCHES: /views/token.phtml?
+
+2019-08-08 08:13:11: : KEY: ^/token.html(\?([A-Z_]+))?$
+
+2019-08-08 08:13:11: : PATH::app/views/token.phtml
+
+
+2019-08-08 08:13:11: : BASEURL::Array
+(
+    [path] => /views/token.phtml
+)
+
+
+
+2019-08-08 08:13:11: : IS FOUND::TRUE
+
+
+2019-08-08 08:13:11: : PARAMETERS::Array
+(
+)
+
+
+
+2019-08-08 08:13:11: : TRANSLATED ROUTE::app/views/token.phtml
+
+2019-08-08 08:13:11: : TRANSLATED SRC ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/app/views/token.phtml
+
+2019-08-08 08:13:11: : TRANSLATED PHINK ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/app/views/token.phtml
+
+2019-08-08 08:13:11: : Phink\Auth\TAuthentication::renewToken::TOKEN::MjE0NzE2MTQ1MDVkNGM2NjM3N2Q5YTA=
+
+2019-08-08 08:13:11: : MVC FILE NAMES FOR 5d4c6637ae5929.61071525::Array
+(
+    [parentUID] => 
+    [id] => noname
+    [name] => token
+    [view] => app/views/token.phtml
+    [controller] => app/controllers/token.class.php
+    [css] => app/views/token.css
+    [js] => app/controllers/token.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_token.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_token.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_token.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:11: : PARENT OBJECT::TView
+
+
+2019-08-08 08:13:11: : PARENT OBJECT::Token
+
+
+2019-08-08 08:13:11: : CACHE FILE NAME TO INCLUDE: /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_token.class.php
+
+2019-08-08 08:13:11: : Phink\Core\TObject::invoke::INVOKE_ACTION::showToken()
+
+2019-08-08 08:13:12: : URL: /token.html
+
+2019-08-08 08:13:12: : MATCHES: /token.html
+
+2019-08-08 08:13:12: : KEY: ^/master.html$
+
+2019-08-08 08:13:12: : URL: /token.html
+
+2019-08-08 08:13:12: : MATCHES: /token.html
+
+2019-08-08 08:13:12: : KEY: ^/home.html$
+
+2019-08-08 08:13:12: : URL: /token.html
+
+2019-08-08 08:13:12: : MATCHES: /token.html
+
+2019-08-08 08:13:12: : KEY: ^/grid.html$
+
+2019-08-08 08:13:12: : URL: /token.html
+
+2019-08-08 08:13:12: : MATCHES: /views/token.phtml?
+
+2019-08-08 08:13:12: : KEY: ^/token.html(\?([A-Z_]+))?$
+
+2019-08-08 08:13:12: : PATH::app/views/token.phtml
+
+
+2019-08-08 08:13:12: : BASEURL::Array
+(
+    [path] => /views/token.phtml
+)
+
+
+
+2019-08-08 08:13:12: : IS FOUND::TRUE
+
+
+2019-08-08 08:13:12: : PARAMETERS::Array
+(
+)
+
+
+
+2019-08-08 08:13:12: : TRANSLATED ROUTE::app/views/token.phtml
+
+2019-08-08 08:13:12: : TRANSLATED SRC ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/app/views/token.phtml
+
+2019-08-08 08:13:12: : TRANSLATED PHINK ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/app/views/token.phtml
+
+2019-08-08 08:13:12: : Phink\Auth\TAuthentication::renewToken::TOKEN::OTgyNjk0MjM5NWQ0YzY2MzdhZGJkNw==
+
+2019-08-08 08:13:12: : MVC FILE NAMES FOR 5d4c663805c709.42388505::Array
+(
+    [parentUID] => 
+    [id] => noname
+    [name] => token
+    [view] => app/views/token.phtml
+    [controller] => app/controllers/token.class.php
+    [css] => app/views/token.css
+    [js] => app/controllers/token.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_token.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_token.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_token.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:12: : PARENT OBJECT::TView
+
+
+2019-08-08 08:13:12: : PARENT OBJECT::Token
+
+
+2019-08-08 08:13:12: : CACHE FILE NAME TO INCLUDE: /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_token.class.php
+
+2019-08-08 08:13:12: : Phink\Core\TObject::invoke::INVOKE_ACTION::showToken()
+
+2019-08-08 08:13:12: : URL: /token.html
+
+2019-08-08 08:13:12: : MATCHES: /token.html
+
+2019-08-08 08:13:12: : KEY: ^/master.html$
+
+2019-08-08 08:13:12: : URL: /token.html
+
+2019-08-08 08:13:12: : MATCHES: /token.html
+
+2019-08-08 08:13:12: : KEY: ^/home.html$
+
+2019-08-08 08:13:12: : URL: /token.html
+
+2019-08-08 08:13:12: : MATCHES: /token.html
+
+2019-08-08 08:13:12: : KEY: ^/grid.html$
+
+2019-08-08 08:13:12: : URL: /token.html
+
+2019-08-08 08:13:12: : MATCHES: /views/token.phtml?
+
+2019-08-08 08:13:12: : KEY: ^/token.html(\?([A-Z_]+))?$
+
+2019-08-08 08:13:12: : PATH::app/views/token.phtml
+
+
+2019-08-08 08:13:12: : BASEURL::Array
+(
+    [path] => /views/token.phtml
+)
+
+
+
+2019-08-08 08:13:12: : IS FOUND::TRUE
+
+
+2019-08-08 08:13:12: : PARAMETERS::Array
+(
+)
+
+
+
+2019-08-08 08:13:12: : TRANSLATED ROUTE::app/views/token.phtml
+
+2019-08-08 08:13:12: : TRANSLATED SRC ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/app/views/token.phtml
+
+2019-08-08 08:13:12: : TRANSLATED PHINK ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/app/views/token.phtml
+
+2019-08-08 08:13:12: : Phink\Auth\TAuthentication::renewToken::TOKEN::NDEyMTgzMzg0NWQ0YzY2MzgwNGNiNQ==
+
+2019-08-08 08:13:12: : MVC FILE NAMES FOR 5d4c66386e9408.89012784::Array
+(
+    [parentUID] => 
+    [id] => noname
+    [name] => token
+    [view] => app/views/token.phtml
+    [controller] => app/controllers/token.class.php
+    [css] => app/views/token.css
+    [js] => app/controllers/token.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_token.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_token.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_token.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:12: : PARENT OBJECT::TView
+
+
+2019-08-08 08:13:12: : PARENT OBJECT::Token
+
+
+2019-08-08 08:13:12: : CACHE FILE NAME TO INCLUDE: /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_token.class.php
+
+2019-08-08 08:13:12: : Phink\Core\TObject::invoke::INVOKE_ACTION::showToken()
+
+2019-08-08 08:13:12: : URL: /token.html
+
+2019-08-08 08:13:12: : MATCHES: /token.html
+
+2019-08-08 08:13:12: : KEY: ^/master.html$
+
+2019-08-08 08:13:12: : URL: /token.html
+
+2019-08-08 08:13:12: : MATCHES: /token.html
+
+2019-08-08 08:13:12: : KEY: ^/home.html$
+
+2019-08-08 08:13:12: : URL: /token.html
+
+2019-08-08 08:13:12: : MATCHES: /token.html
+
+2019-08-08 08:13:12: : KEY: ^/grid.html$
+
+2019-08-08 08:13:12: : URL: /token.html
+
+2019-08-08 08:13:12: : MATCHES: /views/token.phtml?
+
+2019-08-08 08:13:12: : KEY: ^/token.html(\?([A-Z_]+))?$
+
+2019-08-08 08:13:12: : PATH::app/views/token.phtml
+
+
+2019-08-08 08:13:12: : BASEURL::Array
+(
+    [path] => /views/token.phtml
+)
+
+
+
+2019-08-08 08:13:12: : IS FOUND::TRUE
+
+
+2019-08-08 08:13:12: : PARAMETERS::Array
+(
+)
+
+
+
+2019-08-08 08:13:12: : TRANSLATED ROUTE::app/views/token.phtml
+
+2019-08-08 08:13:12: : TRANSLATED SRC ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/app/views/token.phtml
+
+2019-08-08 08:13:12: : TRANSLATED PHINK ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/app/views/token.phtml
+
+2019-08-08 08:13:12: : Phink\Auth\TAuthentication::renewToken::TOKEN::ODAwNjExODM2NWQ0YzY2Mzg2ZTE4Nw==
+
+2019-08-08 08:13:12: : MVC FILE NAMES FOR 5d4c6638ab36b6.28918711::Array
+(
+    [parentUID] => 
+    [id] => noname
+    [name] => token
+    [view] => app/views/token.phtml
+    [controller] => app/controllers/token.class.php
+    [css] => app/views/token.css
+    [js] => app/controllers/token.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_token.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_token.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_token.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:12: : PARENT OBJECT::TView
+
+
+2019-08-08 08:13:12: : PARENT OBJECT::Token
+
+
+2019-08-08 08:13:12: : CACHE FILE NAME TO INCLUDE: /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_token.class.php
+
+2019-08-08 08:13:12: : Phink\Core\TObject::invoke::INVOKE_ACTION::showToken()
+
+2019-08-08 08:13:13: : URL: /token.html
+
+2019-08-08 08:13:13: : MATCHES: /token.html
+
+2019-08-08 08:13:13: : KEY: ^/master.html$
+
+2019-08-08 08:13:13: : URL: /token.html
+
+2019-08-08 08:13:13: : MATCHES: /token.html
+
+2019-08-08 08:13:13: : KEY: ^/home.html$
+
+2019-08-08 08:13:13: : URL: /token.html
+
+2019-08-08 08:13:13: : MATCHES: /token.html
+
+2019-08-08 08:13:13: : KEY: ^/grid.html$
+
+2019-08-08 08:13:13: : URL: /token.html
+
+2019-08-08 08:13:13: : MATCHES: /views/token.phtml?
+
+2019-08-08 08:13:13: : KEY: ^/token.html(\?([A-Z_]+))?$
+
+2019-08-08 08:13:13: : PATH::app/views/token.phtml
+
+
+2019-08-08 08:13:13: : BASEURL::Array
+(
+    [path] => /views/token.phtml
+)
+
+
+
+2019-08-08 08:13:13: : IS FOUND::TRUE
+
+
+2019-08-08 08:13:13: : PARAMETERS::Array
+(
+)
+
+
+
+2019-08-08 08:13:13: : TRANSLATED ROUTE::app/views/token.phtml
+
+2019-08-08 08:13:13: : TRANSLATED SRC ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/app/views/token.phtml
+
+2019-08-08 08:13:13: : TRANSLATED PHINK ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/app/views/token.phtml
+
+2019-08-08 08:13:13: : Phink\Auth\TAuthentication::renewToken::TOKEN::MTg0MTc3ODYyODVkNGM2NjM4YWE2N2U=
+
+2019-08-08 08:13:13: : MVC FILE NAMES FOR 5d4c6639b40c50.10840264::Array
+(
+    [parentUID] => 
+    [id] => noname
+    [name] => token
+    [view] => app/views/token.phtml
+    [controller] => app/controllers/token.class.php
+    [css] => app/views/token.css
+    [js] => app/controllers/token.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_token.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_token.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_token.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:13: : PARENT OBJECT::TView
+
+
+2019-08-08 08:13:13: : PARENT OBJECT::Token
+
+
+2019-08-08 08:13:13: : CACHE FILE NAME TO INCLUDE: /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_token.class.php
+
+2019-08-08 08:13:13: : Phink\Core\TObject::invoke::INVOKE_ACTION::showToken()
+
+2019-08-08 08:13:13: : URL: /token.html
+
+2019-08-08 08:13:13: : MATCHES: /token.html
+
+2019-08-08 08:13:13: : KEY: ^/master.html$
+
+2019-08-08 08:13:13: : URL: /token.html
+
+2019-08-08 08:13:13: : MATCHES: /token.html
+
+2019-08-08 08:13:13: : KEY: ^/home.html$
+
+2019-08-08 08:13:13: : URL: /token.html
+
+2019-08-08 08:13:13: : MATCHES: /token.html
+
+2019-08-08 08:13:13: : KEY: ^/grid.html$
+
+2019-08-08 08:13:13: : URL: /token.html
+
+2019-08-08 08:13:13: : MATCHES: /views/token.phtml?
+
+2019-08-08 08:13:13: : KEY: ^/token.html(\?([A-Z_]+))?$
+
+2019-08-08 08:13:13: : PATH::app/views/token.phtml
+
+
+2019-08-08 08:13:13: : BASEURL::Array
+(
+    [path] => /views/token.phtml
+)
+
+
+
+2019-08-08 08:13:13: : IS FOUND::TRUE
+
+
+2019-08-08 08:13:13: : PARAMETERS::Array
+(
+)
+
+
+
+2019-08-08 08:13:13: : TRANSLATED ROUTE::app/views/token.phtml
+
+2019-08-08 08:13:13: : TRANSLATED SRC ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/app/views/token.phtml
+
+2019-08-08 08:13:13: : TRANSLATED PHINK ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/app/views/token.phtml
+
+2019-08-08 08:13:13: : Phink\Auth\TAuthentication::renewToken::TOKEN::MTczNDgwNTEzNzVkNGM2NjM5YjM0ZjE=
+
+2019-08-08 08:13:13: : MVC FILE NAMES FOR 5d4c6639e2d0a8.44344003::Array
+(
+    [parentUID] => 
+    [id] => noname
+    [name] => token
+    [view] => app/views/token.phtml
+    [controller] => app/controllers/token.class.php
+    [css] => app/views/token.css
+    [js] => app/controllers/token.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_token.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_token.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_token.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:13: : PARENT OBJECT::TView
+
+
+2019-08-08 08:13:13: : PARENT OBJECT::Token
+
+
+2019-08-08 08:13:13: : CACHE FILE NAME TO INCLUDE: /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_token.class.php
+
+2019-08-08 08:13:13: : Phink\Core\TObject::invoke::INVOKE_ACTION::showToken()
+
+2019-08-08 08:13:14: : URL: /token.html
+
+2019-08-08 08:13:14: : MATCHES: /token.html
+
+2019-08-08 08:13:14: : KEY: ^/master.html$
+
+2019-08-08 08:13:14: : URL: /token.html
+
+2019-08-08 08:13:14: : MATCHES: /token.html
+
+2019-08-08 08:13:14: : KEY: ^/home.html$
+
+2019-08-08 08:13:14: : URL: /token.html
+
+2019-08-08 08:13:14: : MATCHES: /token.html
+
+2019-08-08 08:13:14: : KEY: ^/grid.html$
+
+2019-08-08 08:13:14: : URL: /token.html
+
+2019-08-08 08:13:14: : MATCHES: /views/token.phtml?
+
+2019-08-08 08:13:14: : KEY: ^/token.html(\?([A-Z_]+))?$
+
+2019-08-08 08:13:14: : PATH::app/views/token.phtml
+
+
+2019-08-08 08:13:14: : BASEURL::Array
+(
+    [path] => /views/token.phtml
+)
+
+
+
+2019-08-08 08:13:14: : IS FOUND::TRUE
+
+
+2019-08-08 08:13:14: : PARAMETERS::Array
+(
+)
+
+
+
+2019-08-08 08:13:14: : TRANSLATED ROUTE::app/views/token.phtml
+
+2019-08-08 08:13:14: : TRANSLATED SRC ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/app/views/token.phtml
+
+2019-08-08 08:13:14: : TRANSLATED PHINK ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/app/views/token.phtml
+
+2019-08-08 08:13:14: : Phink\Auth\TAuthentication::renewToken::TOKEN::MTk1ODA3NTExMjVkNGM2NjM5ZTE5OTQ=
+
+2019-08-08 08:13:14: : MVC FILE NAMES FOR 5d4c663a1ace67.34054048::Array
+(
+    [parentUID] => 
+    [id] => noname
+    [name] => token
+    [view] => app/views/token.phtml
+    [controller] => app/controllers/token.class.php
+    [css] => app/views/token.css
+    [js] => app/controllers/token.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_token.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_token.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_token.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:14: : PARENT OBJECT::TView
+
+
+2019-08-08 08:13:14: : PARENT OBJECT::Token
+
+
+2019-08-08 08:13:14: : CACHE FILE NAME TO INCLUDE: /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_token.class.php
+
+2019-08-08 08:13:14: : Phink\Core\TObject::invoke::INVOKE_ACTION::showToken()
+
+2019-08-08 08:13:14: : URL: /token.html
+
+2019-08-08 08:13:14: : MATCHES: /token.html
+
+2019-08-08 08:13:14: : KEY: ^/master.html$
+
+2019-08-08 08:13:14: : URL: /token.html
+
+2019-08-08 08:13:14: : MATCHES: /token.html
+
+2019-08-08 08:13:14: : KEY: ^/home.html$
+
+2019-08-08 08:13:14: : URL: /token.html
+
+2019-08-08 08:13:14: : MATCHES: /token.html
+
+2019-08-08 08:13:14: : KEY: ^/grid.html$
+
+2019-08-08 08:13:14: : URL: /token.html
+
+2019-08-08 08:13:14: : MATCHES: /views/token.phtml?
+
+2019-08-08 08:13:14: : KEY: ^/token.html(\?([A-Z_]+))?$
+
+2019-08-08 08:13:14: : PATH::app/views/token.phtml
+
+
+2019-08-08 08:13:14: : BASEURL::Array
+(
+    [path] => /views/token.phtml
+)
+
+
+
+2019-08-08 08:13:14: : IS FOUND::TRUE
+
+
+2019-08-08 08:13:14: : PARAMETERS::Array
+(
+)
+
+
+
+2019-08-08 08:13:14: : TRANSLATED ROUTE::app/views/token.phtml
+
+2019-08-08 08:13:14: : TRANSLATED SRC ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/app/views/token.phtml
+
+2019-08-08 08:13:14: : TRANSLATED PHINK ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/app/views/token.phtml
+
+2019-08-08 08:13:14: : Phink\Auth\TAuthentication::renewToken::TOKEN::MTkzMTgwMzIxMDVkNGM2NjNhMWEzMmM=
+
+2019-08-08 08:13:14: : MVC FILE NAMES FOR 5d4c663a42c219.42099763::Array
+(
+    [parentUID] => 
+    [id] => noname
+    [name] => token
+    [view] => app/views/token.phtml
+    [controller] => app/controllers/token.class.php
+    [css] => app/views/token.css
+    [js] => app/controllers/token.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_token.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_token.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_token.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:14: : PARENT OBJECT::TView
+
+
+2019-08-08 08:13:14: : PARENT OBJECT::Token
+
+
+2019-08-08 08:13:14: : CACHE FILE NAME TO INCLUDE: /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_token.class.php
+
+2019-08-08 08:13:14: : Phink\Core\TObject::invoke::INVOKE_ACTION::showToken()
+
+2019-08-08 08:13:14: : URL: /token.html
+
+2019-08-08 08:13:14: : MATCHES: /token.html
+
+2019-08-08 08:13:14: : KEY: ^/master.html$
+
+2019-08-08 08:13:14: : URL: /token.html
+
+2019-08-08 08:13:14: : MATCHES: /token.html
+
+2019-08-08 08:13:14: : KEY: ^/home.html$
+
+2019-08-08 08:13:14: : URL: /token.html
+
+2019-08-08 08:13:14: : MATCHES: /token.html
+
+2019-08-08 08:13:14: : KEY: ^/grid.html$
+
+2019-08-08 08:13:14: : URL: /token.html
+
+2019-08-08 08:13:14: : MATCHES: /views/token.phtml?
+
+2019-08-08 08:13:14: : KEY: ^/token.html(\?([A-Z_]+))?$
+
+2019-08-08 08:13:14: : PATH::app/views/token.phtml
+
+
+2019-08-08 08:13:14: : BASEURL::Array
+(
+    [path] => /views/token.phtml
+)
+
+
+
+2019-08-08 08:13:14: : IS FOUND::TRUE
+
+
+2019-08-08 08:13:14: : PARAMETERS::Array
+(
+)
+
+
+
+2019-08-08 08:13:14: : TRANSLATED ROUTE::app/views/token.phtml
+
+2019-08-08 08:13:14: : TRANSLATED SRC ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/app/views/token.phtml
+
+2019-08-08 08:13:14: : TRANSLATED PHINK ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/app/views/token.phtml
+
+2019-08-08 08:13:14: : Phink\Auth\TAuthentication::renewToken::TOKEN::MTUzMTM5Nzc2MjVkNGM2NjNhNDIzOWE=
+
+2019-08-08 08:13:14: : MVC FILE NAMES FOR 5d4c663a6403b6.27091100::Array
+(
+    [parentUID] => 
+    [id] => noname
+    [name] => token
+    [view] => app/views/token.phtml
+    [controller] => app/controllers/token.class.php
+    [css] => app/views/token.css
+    [js] => app/controllers/token.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_token.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_token.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_token.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:14: : PARENT OBJECT::TView
+
+
+2019-08-08 08:13:14: : PARENT OBJECT::Token
+
+
+2019-08-08 08:13:14: : CACHE FILE NAME TO INCLUDE: /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_token.class.php
+
+2019-08-08 08:13:14: : Phink\Core\TObject::invoke::INVOKE_ACTION::showToken()
+
+2019-08-08 08:13:14: : URL: /token.html
+
+2019-08-08 08:13:14: : MATCHES: /token.html
+
+2019-08-08 08:13:14: : KEY: ^/master.html$
+
+2019-08-08 08:13:14: : URL: /token.html
+
+2019-08-08 08:13:14: : MATCHES: /token.html
+
+2019-08-08 08:13:14: : KEY: ^/home.html$
+
+2019-08-08 08:13:14: : URL: /token.html
+
+2019-08-08 08:13:14: : MATCHES: /token.html
+
+2019-08-08 08:13:14: : KEY: ^/grid.html$
+
+2019-08-08 08:13:14: : URL: /token.html
+
+2019-08-08 08:13:14: : MATCHES: /views/token.phtml?
+
+2019-08-08 08:13:14: : KEY: ^/token.html(\?([A-Z_]+))?$
+
+2019-08-08 08:13:14: : PATH::app/views/token.phtml
+
+
+2019-08-08 08:13:14: : BASEURL::Array
+(
+    [path] => /views/token.phtml
+)
+
+
+
+2019-08-08 08:13:14: : IS FOUND::TRUE
+
+
+2019-08-08 08:13:14: : PARAMETERS::Array
+(
+)
+
+
+
+2019-08-08 08:13:14: : TRANSLATED ROUTE::app/views/token.phtml
+
+2019-08-08 08:13:14: : TRANSLATED SRC ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/app/views/token.phtml
+
+2019-08-08 08:13:14: : TRANSLATED PHINK ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/app/views/token.phtml
+
+2019-08-08 08:13:14: : Phink\Auth\TAuthentication::renewToken::TOKEN::MTI5NDczNTM5ODVkNGM2NjNhNjJmYjc=
+
+2019-08-08 08:13:14: : MVC FILE NAMES FOR 5d4c663a8730c5.61653835::Array
+(
+    [parentUID] => 
+    [id] => noname
+    [name] => token
+    [view] => app/views/token.phtml
+    [controller] => app/controllers/token.class.php
+    [css] => app/views/token.css
+    [js] => app/controllers/token.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_token.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_token.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_token.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:14: : PARENT OBJECT::TView
+
+
+2019-08-08 08:13:14: : PARENT OBJECT::Token
+
+
+2019-08-08 08:13:14: : CACHE FILE NAME TO INCLUDE: /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_token.class.php
+
+2019-08-08 08:13:14: : Phink\Core\TObject::invoke::INVOKE_ACTION::showToken()
+
+2019-08-08 08:13:14: : URL: /token.html
+
+2019-08-08 08:13:14: : MATCHES: /token.html
+
+2019-08-08 08:13:14: : KEY: ^/master.html$
+
+2019-08-08 08:13:14: : URL: /token.html
+
+2019-08-08 08:13:14: : MATCHES: /token.html
+
+2019-08-08 08:13:14: : KEY: ^/home.html$
+
+2019-08-08 08:13:14: : URL: /token.html
+
+2019-08-08 08:13:14: : MATCHES: /token.html
+
+2019-08-08 08:13:14: : KEY: ^/grid.html$
+
+2019-08-08 08:13:14: : URL: /token.html
+
+2019-08-08 08:13:14: : MATCHES: /views/token.phtml?
+
+2019-08-08 08:13:14: : KEY: ^/token.html(\?([A-Z_]+))?$
+
+2019-08-08 08:13:14: : PATH::app/views/token.phtml
+
+
+2019-08-08 08:13:14: : BASEURL::Array
+(
+    [path] => /views/token.phtml
+)
+
+
+
+2019-08-08 08:13:14: : IS FOUND::TRUE
+
+
+2019-08-08 08:13:14: : PARAMETERS::Array
+(
+)
+
+
+
+2019-08-08 08:13:14: : TRANSLATED ROUTE::app/views/token.phtml
+
+2019-08-08 08:13:14: : TRANSLATED SRC ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/app/views/token.phtml
+
+2019-08-08 08:13:14: : TRANSLATED PHINK ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/app/views/token.phtml
+
+2019-08-08 08:13:14: : Phink\Auth\TAuthentication::renewToken::TOKEN::MjAxMjc3MzA5MDVkNGM2NjNhODY4ZTA=
+
+2019-08-08 08:13:14: : MVC FILE NAMES FOR 5d4c663ab6c1d9.66510937::Array
+(
+    [parentUID] => 
+    [id] => noname
+    [name] => token
+    [view] => app/views/token.phtml
+    [controller] => app/controllers/token.class.php
+    [css] => app/views/token.css
+    [js] => app/controllers/token.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_token.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_token.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_token.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:14: : PARENT OBJECT::TView
+
+
+2019-08-08 08:13:14: : PARENT OBJECT::Token
+
+
+2019-08-08 08:13:14: : CACHE FILE NAME TO INCLUDE: /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_token.class.php
+
+2019-08-08 08:13:14: : Phink\Core\TObject::invoke::INVOKE_ACTION::showToken()
+
+2019-08-08 08:13:14: : URL: /token.html
+
+2019-08-08 08:13:14: : MATCHES: /token.html
+
+2019-08-08 08:13:14: : KEY: ^/master.html$
+
+2019-08-08 08:13:14: : URL: /token.html
+
+2019-08-08 08:13:14: : MATCHES: /token.html
+
+2019-08-08 08:13:14: : KEY: ^/home.html$
+
+2019-08-08 08:13:14: : URL: /token.html
+
+2019-08-08 08:13:14: : MATCHES: /token.html
+
+2019-08-08 08:13:14: : KEY: ^/grid.html$
+
+2019-08-08 08:13:14: : URL: /token.html
+
+2019-08-08 08:13:14: : MATCHES: /views/token.phtml?
+
+2019-08-08 08:13:14: : KEY: ^/token.html(\?([A-Z_]+))?$
+
+2019-08-08 08:13:14: : PATH::app/views/token.phtml
+
+
+2019-08-08 08:13:14: : BASEURL::Array
+(
+    [path] => /views/token.phtml
+)
+
+
+
+2019-08-08 08:13:14: : IS FOUND::TRUE
+
+
+2019-08-08 08:13:14: : PARAMETERS::Array
+(
+)
+
+
+
+2019-08-08 08:13:14: : TRANSLATED ROUTE::app/views/token.phtml
+
+2019-08-08 08:13:14: : TRANSLATED SRC ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/app/views/token.phtml
+
+2019-08-08 08:13:14: : TRANSLATED PHINK ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/app/views/token.phtml
+
+2019-08-08 08:13:14: : Phink\Auth\TAuthentication::renewToken::TOKEN::NTg3OTQyNjM2NWQ0YzY2M2FiNTJhNg==
+
+2019-08-08 08:13:14: : MVC FILE NAMES FOR 5d4c663ad95e98.31577398::Array
+(
+    [parentUID] => 
+    [id] => noname
+    [name] => token
+    [view] => app/views/token.phtml
+    [controller] => app/controllers/token.class.php
+    [css] => app/views/token.css
+    [js] => app/controllers/token.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_token.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_token.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_token.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:14: : PARENT OBJECT::TView
+
+
+2019-08-08 08:13:14: : PARENT OBJECT::Token
+
+
+2019-08-08 08:13:14: : CACHE FILE NAME TO INCLUDE: /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_token.class.php
+
+2019-08-08 08:13:14: : Phink\Core\TObject::invoke::INVOKE_ACTION::showToken()
+
+2019-08-08 08:13:15: : URL: /token.html
+
+2019-08-08 08:13:15: : MATCHES: /token.html
+
+2019-08-08 08:13:15: : KEY: ^/master.html$
+
+2019-08-08 08:13:15: : URL: /token.html
+
+2019-08-08 08:13:15: : MATCHES: /token.html
+
+2019-08-08 08:13:15: : KEY: ^/home.html$
+
+2019-08-08 08:13:15: : URL: /token.html
+
+2019-08-08 08:13:15: : MATCHES: /token.html
+
+2019-08-08 08:13:15: : KEY: ^/grid.html$
+
+2019-08-08 08:13:15: : URL: /token.html
+
+2019-08-08 08:13:15: : MATCHES: /views/token.phtml?
+
+2019-08-08 08:13:15: : KEY: ^/token.html(\?([A-Z_]+))?$
+
+2019-08-08 08:13:15: : PATH::app/views/token.phtml
+
+
+2019-08-08 08:13:15: : BASEURL::Array
+(
+    [path] => /views/token.phtml
+)
+
+
+
+2019-08-08 08:13:15: : IS FOUND::TRUE
+
+
+2019-08-08 08:13:15: : PARAMETERS::Array
+(
+)
+
+
+
+2019-08-08 08:13:15: : TRANSLATED ROUTE::app/views/token.phtml
+
+2019-08-08 08:13:15: : TRANSLATED SRC ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/app/views/token.phtml
+
+2019-08-08 08:13:15: : TRANSLATED PHINK ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/app/views/token.phtml
+
+2019-08-08 08:13:15: : Phink\Auth\TAuthentication::renewToken::TOKEN::MTQ0NTI0MTIzNzVkNGM2NjNhZDhjMzk=
+
+2019-08-08 08:13:15: : MVC FILE NAMES FOR 5d4c663b171f07.59076340::Array
+(
+    [parentUID] => 
+    [id] => noname
+    [name] => token
+    [view] => app/views/token.phtml
+    [controller] => app/controllers/token.class.php
+    [css] => app/views/token.css
+    [js] => app/controllers/token.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_token.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_token.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_token.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:15: : PARENT OBJECT::TView
+
+
+2019-08-08 08:13:15: : PARENT OBJECT::Token
+
+
+2019-08-08 08:13:15: : CACHE FILE NAME TO INCLUDE: /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_token.class.php
+
+2019-08-08 08:13:15: : Phink\Core\TObject::invoke::INVOKE_ACTION::showToken()
+
+2019-08-08 08:13:15: : URL: /token.html
+
+2019-08-08 08:13:15: : MATCHES: /token.html
+
+2019-08-08 08:13:15: : KEY: ^/master.html$
+
+2019-08-08 08:13:15: : URL: /token.html
+
+2019-08-08 08:13:15: : MATCHES: /token.html
+
+2019-08-08 08:13:15: : KEY: ^/home.html$
+
+2019-08-08 08:13:15: : URL: /token.html
+
+2019-08-08 08:13:15: : MATCHES: /token.html
+
+2019-08-08 08:13:15: : KEY: ^/grid.html$
+
+2019-08-08 08:13:15: : URL: /token.html
+
+2019-08-08 08:13:15: : MATCHES: /views/token.phtml?
+
+2019-08-08 08:13:15: : KEY: ^/token.html(\?([A-Z_]+))?$
+
+2019-08-08 08:13:15: : PATH::app/views/token.phtml
+
+
+2019-08-08 08:13:15: : BASEURL::Array
+(
+    [path] => /views/token.phtml
+)
+
+
+
+2019-08-08 08:13:15: : IS FOUND::TRUE
+
+
+2019-08-08 08:13:15: : PARAMETERS::Array
+(
+)
+
+
+
+2019-08-08 08:13:15: : TRANSLATED ROUTE::app/views/token.phtml
+
+2019-08-08 08:13:15: : TRANSLATED SRC ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/app/views/token.phtml
+
+2019-08-08 08:13:15: : TRANSLATED PHINK ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/app/views/token.phtml
+
+2019-08-08 08:13:15: : Phink\Auth\TAuthentication::renewToken::TOKEN::MjkzMTYzMTkzNWQ0YzY2M2IxNWRkZQ==
+
+2019-08-08 08:13:15: : MVC FILE NAMES FOR 5d4c663b65f494.82428374::Array
+(
+    [parentUID] => 
+    [id] => noname
+    [name] => token
+    [view] => app/views/token.phtml
+    [controller] => app/controllers/token.class.php
+    [css] => app/views/token.css
+    [js] => app/controllers/token.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_token.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_token.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_token.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:15: : PARENT OBJECT::TView
+
+
+2019-08-08 08:13:15: : PARENT OBJECT::Token
+
+
+2019-08-08 08:13:15: : CACHE FILE NAME TO INCLUDE: /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_token.class.php
+
+2019-08-08 08:13:15: : Phink\Core\TObject::invoke::INVOKE_ACTION::showToken()
+
+2019-08-08 08:13:16: : URL: /grid.html
+
+2019-08-08 08:13:16: : MATCHES: /grid.html
+
+2019-08-08 08:13:16: : KEY: ^/master.html$
+
+2019-08-08 08:13:16: : URL: /grid.html
+
+2019-08-08 08:13:16: : MATCHES: /grid.html
+
+2019-08-08 08:13:16: : KEY: ^/home.html$
+
+2019-08-08 08:13:16: : URL: /grid.html
+
+2019-08-08 08:13:16: : MATCHES: /views/grid.phtml
+
+2019-08-08 08:13:16: : KEY: ^/grid.html$
+
+2019-08-08 08:13:16: : PATH::app/views/grid.phtml
+
+
+2019-08-08 08:13:16: : BASEURL::Array
+(
+    [path] => /views/grid.phtml
+)
+
+
+
+2019-08-08 08:13:16: : IS FOUND::TRUE
+
+
+2019-08-08 08:13:16: : PARAMETERS::Array
+(
+)
+
+
+
+2019-08-08 08:13:16: : TRANSLATED ROUTE::app/views/grid.phtml
+
+2019-08-08 08:13:16: : TRANSLATED SRC ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/app/views/grid.phtml
+
+2019-08-08 08:13:16: : TRANSLATED PHINK ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/app/views/grid.phtml
+
+2019-08-08 08:13:16: : Phink\Auth\TAuthentication::renewToken::TOKEN::MjA5ODM4ODkyMTVkNGM2NjNiNjU0MzQ=
+
+2019-08-08 08:13:16: : MVC FILE NAMES FOR 5d4c663cd6dc32.62068532::Array
+(
+    [parentUID] => 
+    [id] => noname
+    [name] => grid
+    [view] => app/views/grid.phtml
+    [controller] => app/controllers/grid.class.php
+    [css] => app/views/grid.css
+    [js] => app/controllers/grid.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_grid.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_grid.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_grid.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:16: : PARENT OBJECT::TView
+
+
+2019-08-08 08:13:16: : PARENT OBJECT::Grid
+
+
+2019-08-08 08:13:16: : CACHE FILE NAME TO INCLUDE: /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_grid.class.php
+
+2019-08-08 08:13:16:phink/autoloader.php:200 : Phink\TAutoloader::includeClass::app/models/grid.class.php
+
+2019-08-08 08:13:16: : MVC FILE NAMES FOR 204736845d4c663cdac736.47193158::Array
+(
+    [parentUID] => 19054859085d4c663cdab9c0.55375418
+    [id] => noname
+    [name] => pager
+    [view] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.phtml
+    [controller] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.class.php
+    [css] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.css
+    [js] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_pager.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_pager.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_pager.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:16: : MVC FILE NAMES FOR 1921556385d4c663ce57f91.66240950::Array
+(
+    [parentUID] => 8773322325d4c663ce56d89.32618203
+    [id] => noname
+    [name] => plugin
+    [view] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.phtml
+    [controller] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.class.php
+    [css] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.css
+    [js] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_plugin.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_plugin.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_plugin.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:16: : Phink\Core\TObject::invoke::INVOKE_ACTION::getData("6", "2")
+
+2019-08-08 08:13:17: : URL: /grid.html
+
+2019-08-08 08:13:17: : MATCHES: /grid.html
+
+2019-08-08 08:13:17: : KEY: ^/master.html$
+
+2019-08-08 08:13:17: : URL: /grid.html
+
+2019-08-08 08:13:17: : MATCHES: /grid.html
+
+2019-08-08 08:13:17: : KEY: ^/home.html$
+
+2019-08-08 08:13:17: : URL: /grid.html
+
+2019-08-08 08:13:17: : MATCHES: /views/grid.phtml
+
+2019-08-08 08:13:17: : KEY: ^/grid.html$
+
+2019-08-08 08:13:17: : PATH::app/views/grid.phtml
+
+
+2019-08-08 08:13:17: : BASEURL::Array
+(
+    [path] => /views/grid.phtml
+)
+
+
+
+2019-08-08 08:13:17: : IS FOUND::TRUE
+
+
+2019-08-08 08:13:17: : PARAMETERS::Array
+(
+)
+
+
+
+2019-08-08 08:13:17: : TRANSLATED ROUTE::app/views/grid.phtml
+
+2019-08-08 08:13:17: : TRANSLATED SRC ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/app/views/grid.phtml
+
+2019-08-08 08:13:17: : TRANSLATED PHINK ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/app/views/grid.phtml
+
+2019-08-08 08:13:17: : Phink\Auth\TAuthentication::renewToken::TOKEN::MTc5NDgyOTE3OTVkNGM2NjNjZDU2YmI=
+
+2019-08-08 08:13:17: : MVC FILE NAMES FOR 5d4c663da53443.17907378::Array
+(
+    [parentUID] => 
+    [id] => noname
+    [name] => grid
+    [view] => app/views/grid.phtml
+    [controller] => app/controllers/grid.class.php
+    [css] => app/views/grid.css
+    [js] => app/controllers/grid.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_grid.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_grid.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_grid.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:17: : PARENT OBJECT::TView
+
+
+2019-08-08 08:13:17: : PARENT OBJECT::Grid
+
+
+2019-08-08 08:13:17: : CACHE FILE NAME TO INCLUDE: /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_grid.class.php
+
+2019-08-08 08:13:17:phink/autoloader.php:200 : Phink\TAutoloader::includeClass::app/models/grid.class.php
+
+2019-08-08 08:13:17: : MVC FILE NAMES FOR 20208322705d4c663da8fb71.34361588::Array
+(
+    [parentUID] => 2602081965d4c663da8ee02.70415032
+    [id] => noname
+    [name] => pager
+    [view] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.phtml
+    [controller] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.class.php
+    [css] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.css
+    [js] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_pager.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_pager.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_pager.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:17: : MVC FILE NAMES FOR 17839975385d4c663db35446.87114825::Array
+(
+    [parentUID] => 7084947445d4c663db34947.17504401
+    [id] => noname
+    [name] => plugin
+    [view] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.phtml
+    [controller] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.class.php
+    [css] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.css
+    [js] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_plugin.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_plugin.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_plugin.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:17: : Phink\Core\TObject::invoke::INVOKE_ACTION::getData("6", "3")
+
+2019-08-08 08:13:18: : URL: /grid.html
+
+2019-08-08 08:13:18: : MATCHES: /grid.html
+
+2019-08-08 08:13:18: : KEY: ^/master.html$
+
+2019-08-08 08:13:18: : URL: /grid.html
+
+2019-08-08 08:13:18: : MATCHES: /grid.html
+
+2019-08-08 08:13:18: : KEY: ^/home.html$
+
+2019-08-08 08:13:18: : URL: /grid.html
+
+2019-08-08 08:13:18: : MATCHES: /views/grid.phtml
+
+2019-08-08 08:13:18: : KEY: ^/grid.html$
+
+2019-08-08 08:13:18: : PATH::app/views/grid.phtml
+
+
+2019-08-08 08:13:18: : BASEURL::Array
+(
+    [path] => /views/grid.phtml
+)
+
+
+
+2019-08-08 08:13:18: : IS FOUND::TRUE
+
+
+2019-08-08 08:13:18: : PARAMETERS::Array
+(
+)
+
+
+
+2019-08-08 08:13:18: : TRANSLATED ROUTE::app/views/grid.phtml
+
+2019-08-08 08:13:18: : TRANSLATED SRC ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/app/views/grid.phtml
+
+2019-08-08 08:13:18: : TRANSLATED PHINK ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/app/views/grid.phtml
+
+2019-08-08 08:13:18: : Phink\Auth\TAuthentication::renewToken::TOKEN::MTU2OTg2NTg1MTVkNGM2NjNkYTQ5MGQ=
+
+2019-08-08 08:13:18: : MVC FILE NAMES FOR 5d4c663e541bd2.66117986::Array
+(
+    [parentUID] => 
+    [id] => noname
+    [name] => grid
+    [view] => app/views/grid.phtml
+    [controller] => app/controllers/grid.class.php
+    [css] => app/views/grid.css
+    [js] => app/controllers/grid.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_grid.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_grid.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_grid.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:18: : PARENT OBJECT::TView
+
+
+2019-08-08 08:13:18: : PARENT OBJECT::Grid
+
+
+2019-08-08 08:13:18: : CACHE FILE NAME TO INCLUDE: /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_grid.class.php
+
+2019-08-08 08:13:18:phink/autoloader.php:200 : Phink\TAutoloader::includeClass::app/models/grid.class.php
+
+2019-08-08 08:13:18: : MVC FILE NAMES FOR 5642524555d4c663e574920.96711641::Array
+(
+    [parentUID] => 594242135d4c663e573d48.27047530
+    [id] => noname
+    [name] => pager
+    [view] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.phtml
+    [controller] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.class.php
+    [css] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.css
+    [js] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_pager.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_pager.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_pager.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:18: : MVC FILE NAMES FOR 2222749565d4c663e579b21.27796517::Array
+(
+    [parentUID] => 9940031945d4c663e579546.60036092
+    [id] => noname
+    [name] => plugin
+    [view] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.phtml
+    [controller] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.class.php
+    [css] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.css
+    [js] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_plugin.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_plugin.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_plugin.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:18: : Phink\Core\TObject::invoke::INVOKE_ACTION::getData("6", "4")
+
+2019-08-08 08:13:19: : URL: /grid.html
+
+2019-08-08 08:13:19: : MATCHES: /grid.html
+
+2019-08-08 08:13:19: : KEY: ^/master.html$
+
+2019-08-08 08:13:19: : URL: /grid.html
+
+2019-08-08 08:13:19: : MATCHES: /grid.html
+
+2019-08-08 08:13:19: : KEY: ^/home.html$
+
+2019-08-08 08:13:19: : URL: /grid.html
+
+2019-08-08 08:13:19: : MATCHES: /views/grid.phtml
+
+2019-08-08 08:13:19: : KEY: ^/grid.html$
+
+2019-08-08 08:13:19: : PATH::app/views/grid.phtml
+
+
+2019-08-08 08:13:19: : BASEURL::Array
+(
+    [path] => /views/grid.phtml
+)
+
+
+
+2019-08-08 08:13:19: : IS FOUND::TRUE
+
+
+2019-08-08 08:13:19: : PARAMETERS::Array
+(
+)
+
+
+
+2019-08-08 08:13:19: : TRANSLATED ROUTE::app/views/grid.phtml
+
+2019-08-08 08:13:19: : TRANSLATED SRC ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/app/views/grid.phtml
+
+2019-08-08 08:13:19: : TRANSLATED PHINK ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/app/views/grid.phtml
+
+2019-08-08 08:13:19: : Phink\Auth\TAuthentication::renewToken::TOKEN::MTUwOTI2OTA4NWQ0YzY2M2U1MzdlYg==
+
+2019-08-08 08:13:19: : MVC FILE NAMES FOR 5d4c663f066568.32679660::Array
+(
+    [parentUID] => 
+    [id] => noname
+    [name] => grid
+    [view] => app/views/grid.phtml
+    [controller] => app/controllers/grid.class.php
+    [css] => app/views/grid.css
+    [js] => app/controllers/grid.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_grid.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_grid.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_grid.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:19: : PARENT OBJECT::TView
+
+
+2019-08-08 08:13:19: : PARENT OBJECT::Grid
+
+
+2019-08-08 08:13:19: : CACHE FILE NAME TO INCLUDE: /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_grid.class.php
+
+2019-08-08 08:13:19:phink/autoloader.php:200 : Phink\TAutoloader::includeClass::app/models/grid.class.php
+
+2019-08-08 08:13:19: : MVC FILE NAMES FOR 9458656095d4c663f087d90.36259204::Array
+(
+    [parentUID] => 1991916265d4c663f087153.95622513
+    [id] => noname
+    [name] => pager
+    [view] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.phtml
+    [controller] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.class.php
+    [css] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.css
+    [js] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_pager.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_pager.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_pager.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:19: : MVC FILE NAMES FOR 15331074825d4c663f08c5f0.81032468::Array
+(
+    [parentUID] => 12022078995d4c663f08c063.46732577
+    [id] => noname
+    [name] => plugin
+    [view] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.phtml
+    [controller] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.class.php
+    [css] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.css
+    [js] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_plugin.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_plugin.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_plugin.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:19: : Phink\Core\TObject::invoke::INVOKE_ACTION::getData("6", "5")
+
+2019-08-08 08:13:21: : URL: /grid.html
+
+2019-08-08 08:13:21: : MATCHES: /grid.html
+
+2019-08-08 08:13:21: : KEY: ^/master.html$
+
+2019-08-08 08:13:21: : URL: /grid.html
+
+2019-08-08 08:13:21: : MATCHES: /grid.html
+
+2019-08-08 08:13:21: : KEY: ^/home.html$
+
+2019-08-08 08:13:21: : URL: /grid.html
+
+2019-08-08 08:13:21: : MATCHES: /views/grid.phtml
+
+2019-08-08 08:13:21: : KEY: ^/grid.html$
+
+2019-08-08 08:13:21: : PATH::app/views/grid.phtml
+
+
+2019-08-08 08:13:21: : BASEURL::Array
+(
+    [path] => /views/grid.phtml
+)
+
+
+
+2019-08-08 08:13:21: : IS FOUND::TRUE
+
+
+2019-08-08 08:13:21: : PARAMETERS::Array
+(
+)
+
+
+
+2019-08-08 08:13:21: : TRANSLATED ROUTE::app/views/grid.phtml
+
+2019-08-08 08:13:21: : TRANSLATED SRC ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/app/views/grid.phtml
+
+2019-08-08 08:13:21: : TRANSLATED PHINK ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/app/views/grid.phtml
+
+2019-08-08 08:13:21: : Phink\Auth\TAuthentication::renewToken::TOKEN::MTI4NjI4NDA1NDVkNGM2NjNmMDVkYTg=
+
+2019-08-08 08:13:21: : MVC FILE NAMES FOR 5d4c6641518680.06726689::Array
+(
+    [parentUID] => 
+    [id] => noname
+    [name] => grid
+    [view] => app/views/grid.phtml
+    [controller] => app/controllers/grid.class.php
+    [css] => app/views/grid.css
+    [js] => app/controllers/grid.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_grid.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_grid.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_grid.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:21: : PARENT OBJECT::TView
+
+
+2019-08-08 08:13:21: : PARENT OBJECT::Grid
+
+
+2019-08-08 08:13:21: : CACHE FILE NAME TO INCLUDE: /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_grid.class.php
+
+2019-08-08 08:13:21:phink/autoloader.php:200 : Phink\TAutoloader::includeClass::app/models/grid.class.php
+
+2019-08-08 08:13:21: : MVC FILE NAMES FOR 8203989015d4c664153eb68.07212741::Array
+(
+    [parentUID] => 6891022335d4c664153df66.09700792
+    [id] => noname
+    [name] => pager
+    [view] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.phtml
+    [controller] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.class.php
+    [css] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.css
+    [js] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_pager.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_pager.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_pager.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:21: : MVC FILE NAMES FOR 10037052305d4c66415444c0.06127095::Array
+(
+    [parentUID] => 16098020565d4c6641543e85.43019337
+    [id] => noname
+    [name] => plugin
+    [view] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.phtml
+    [controller] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.class.php
+    [css] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.css
+    [js] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_plugin.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_plugin.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_plugin.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:21: : Phink\Core\TObject::invoke::INVOKE_ACTION::getData("6", "4")
+
+2019-08-08 08:13:21: : URL: /grid.html
+
+2019-08-08 08:13:21: : MATCHES: /grid.html
+
+2019-08-08 08:13:21: : KEY: ^/master.html$
+
+2019-08-08 08:13:21: : URL: /grid.html
+
+2019-08-08 08:13:21: : MATCHES: /grid.html
+
+2019-08-08 08:13:21: : KEY: ^/home.html$
+
+2019-08-08 08:13:21: : URL: /grid.html
+
+2019-08-08 08:13:21: : MATCHES: /views/grid.phtml
+
+2019-08-08 08:13:21: : KEY: ^/grid.html$
+
+2019-08-08 08:13:21: : PATH::app/views/grid.phtml
+
+
+2019-08-08 08:13:21: : BASEURL::Array
+(
+    [path] => /views/grid.phtml
+)
+
+
+
+2019-08-08 08:13:21: : IS FOUND::TRUE
+
+
+2019-08-08 08:13:21: : PARAMETERS::Array
+(
+)
+
+
+
+2019-08-08 08:13:21: : TRANSLATED ROUTE::app/views/grid.phtml
+
+2019-08-08 08:13:21: : TRANSLATED SRC ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/app/views/grid.phtml
+
+2019-08-08 08:13:21: : TRANSLATED PHINK ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/app/views/grid.phtml
+
+2019-08-08 08:13:21: : Phink\Auth\TAuthentication::renewToken::TOKEN::MjAzNjA3MTUzOTVkNGM2NjQxNTBmZTM=
+
+2019-08-08 08:13:21: : MVC FILE NAMES FOR 5d4c6641a1c497.76086503::Array
+(
+    [parentUID] => 
+    [id] => noname
+    [name] => grid
+    [view] => app/views/grid.phtml
+    [controller] => app/controllers/grid.class.php
+    [css] => app/views/grid.css
+    [js] => app/controllers/grid.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_grid.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_grid.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_grid.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:21: : PARENT OBJECT::TView
+
+
+2019-08-08 08:13:21: : PARENT OBJECT::Grid
+
+
+2019-08-08 08:13:21: : CACHE FILE NAME TO INCLUDE: /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_grid.class.php
+
+2019-08-08 08:13:21:phink/autoloader.php:200 : Phink\TAutoloader::includeClass::app/models/grid.class.php
+
+2019-08-08 08:13:21: : MVC FILE NAMES FOR 21316077145d4c6641a422d4.05732423::Array
+(
+    [parentUID] => 7873629485d4c6641a416f2.02950797
+    [id] => noname
+    [name] => pager
+    [view] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.phtml
+    [controller] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.class.php
+    [css] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.css
+    [js] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_pager.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_pager.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_pager.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:21: : MVC FILE NAMES FOR 13288985465d4c6641a46a86.93166010::Array
+(
+    [parentUID] => 18384203205d4c6641a46510.56723998
+    [id] => noname
+    [name] => plugin
+    [view] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.phtml
+    [controller] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.class.php
+    [css] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.css
+    [js] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_plugin.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_plugin.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_plugin.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:21: : Phink\Core\TObject::invoke::INVOKE_ACTION::getData("6", "3")
+
+2019-08-08 08:13:21: : URL: /grid.html
+
+2019-08-08 08:13:21: : MATCHES: /grid.html
+
+2019-08-08 08:13:21: : KEY: ^/master.html$
+
+2019-08-08 08:13:21: : URL: /grid.html
+
+2019-08-08 08:13:21: : MATCHES: /grid.html
+
+2019-08-08 08:13:21: : KEY: ^/home.html$
+
+2019-08-08 08:13:21: : URL: /grid.html
+
+2019-08-08 08:13:21: : MATCHES: /views/grid.phtml
+
+2019-08-08 08:13:21: : KEY: ^/grid.html$
+
+2019-08-08 08:13:21: : PATH::app/views/grid.phtml
+
+
+2019-08-08 08:13:21: : BASEURL::Array
+(
+    [path] => /views/grid.phtml
+)
+
+
+
+2019-08-08 08:13:21: : IS FOUND::TRUE
+
+
+2019-08-08 08:13:21: : PARAMETERS::Array
+(
+)
+
+
+
+2019-08-08 08:13:21: : TRANSLATED ROUTE::app/views/grid.phtml
+
+2019-08-08 08:13:21: : TRANSLATED SRC ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/app/views/grid.phtml
+
+2019-08-08 08:13:21: : TRANSLATED PHINK ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/app/views/grid.phtml
+
+2019-08-08 08:13:21: : Phink\Auth\TAuthentication::renewToken::TOKEN::MTM2ODc2NTU5MDVkNGM2NjQxYTEzMjI=
+
+2019-08-08 08:13:21: : MVC FILE NAMES FOR 5d4c6641ee2a89.27334369::Array
+(
+    [parentUID] => 
+    [id] => noname
+    [name] => grid
+    [view] => app/views/grid.phtml
+    [controller] => app/controllers/grid.class.php
+    [css] => app/views/grid.css
+    [js] => app/controllers/grid.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_grid.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_grid.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_grid.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:21: : PARENT OBJECT::TView
+
+
+2019-08-08 08:13:21: : PARENT OBJECT::Grid
+
+
+2019-08-08 08:13:21: : CACHE FILE NAME TO INCLUDE: /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_grid.class.php
+
+2019-08-08 08:13:21:phink/autoloader.php:200 : Phink\TAutoloader::includeClass::app/models/grid.class.php
+
+2019-08-08 08:13:21: : MVC FILE NAMES FOR 1393030115d4c6641f03e38.79508435::Array
+(
+    [parentUID] => 1068536465d4c6641f03285.89123011
+    [id] => noname
+    [name] => pager
+    [view] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.phtml
+    [controller] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.class.php
+    [css] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.css
+    [js] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_pager.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_pager.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_pager.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:21: : MVC FILE NAMES FOR 7044412065d4c6641f08684.40298145::Array
+(
+    [parentUID] => 21076872995d4c6641f08129.47264925
+    [id] => noname
+    [name] => plugin
+    [view] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.phtml
+    [controller] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.class.php
+    [css] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.css
+    [js] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_plugin.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_plugin.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_plugin.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:21: : Phink\Core\TObject::invoke::INVOKE_ACTION::getData("6", "2")
+
+2019-08-08 08:13:22: : URL: /grid.html
+
+2019-08-08 08:13:22: : MATCHES: /grid.html
+
+2019-08-08 08:13:22: : KEY: ^/master.html$
+
+2019-08-08 08:13:22: : URL: /grid.html
+
+2019-08-08 08:13:22: : MATCHES: /grid.html
+
+2019-08-08 08:13:22: : KEY: ^/home.html$
+
+2019-08-08 08:13:22: : URL: /grid.html
+
+2019-08-08 08:13:22: : MATCHES: /views/grid.phtml
+
+2019-08-08 08:13:22: : KEY: ^/grid.html$
+
+2019-08-08 08:13:22: : PATH::app/views/grid.phtml
+
+
+2019-08-08 08:13:22: : BASEURL::Array
+(
+    [path] => /views/grid.phtml
+)
+
+
+
+2019-08-08 08:13:22: : IS FOUND::TRUE
+
+
+2019-08-08 08:13:22: : PARAMETERS::Array
+(
+)
+
+
+
+2019-08-08 08:13:22: : TRANSLATED ROUTE::app/views/grid.phtml
+
+2019-08-08 08:13:22: : TRANSLATED SRC ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/app/views/grid.phtml
+
+2019-08-08 08:13:22: : TRANSLATED PHINK ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/app/views/grid.phtml
+
+2019-08-08 08:13:22: : Phink\Auth\TAuthentication::renewToken::TOKEN::MTYzOTg3Njk1NWQ0YzY2NDFlZDk0NQ==
+
+2019-08-08 08:13:22: : MVC FILE NAMES FOR 5d4c66424716a0.57467653::Array
+(
+    [parentUID] => 
+    [id] => noname
+    [name] => grid
+    [view] => app/views/grid.phtml
+    [controller] => app/controllers/grid.class.php
+    [css] => app/views/grid.css
+    [js] => app/controllers/grid.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_grid.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_grid.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_grid.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:22: : PARENT OBJECT::TView
+
+
+2019-08-08 08:13:22: : PARENT OBJECT::Grid
+
+
+2019-08-08 08:13:22: : CACHE FILE NAME TO INCLUDE: /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_grid.class.php
+
+2019-08-08 08:13:22:phink/autoloader.php:200 : Phink\TAutoloader::includeClass::app/models/grid.class.php
+
+2019-08-08 08:13:22: : MVC FILE NAMES FOR 19221154535d4c6642495727.84223100::Array
+(
+    [parentUID] => 20650606485d4c6642494b38.41324125
+    [id] => noname
+    [name] => pager
+    [view] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.phtml
+    [controller] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.class.php
+    [css] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.css
+    [js] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_pager.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_pager.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_pager.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:22: : MVC FILE NAMES FOR 14859936045d4c664249ae92.65234334::Array
+(
+    [parentUID] => 10004256325d4c664249a885.33145337
+    [id] => noname
+    [name] => plugin
+    [view] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.phtml
+    [controller] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.class.php
+    [css] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.css
+    [js] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_plugin.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_plugin.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_plugin.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:22: : Phink\Core\TObject::invoke::INVOKE_ACTION::getData("6", "1")
+
+2019-08-08 08:13:22: : URL: /grid.html
+
+2019-08-08 08:13:22: : MATCHES: /grid.html
+
+2019-08-08 08:13:22: : KEY: ^/master.html$
+
+2019-08-08 08:13:22: : URL: /grid.html
+
+2019-08-08 08:13:22: : MATCHES: /grid.html
+
+2019-08-08 08:13:22: : KEY: ^/home.html$
+
+2019-08-08 08:13:22: : URL: /grid.html
+
+2019-08-08 08:13:22: : MATCHES: /views/grid.phtml
+
+2019-08-08 08:13:22: : KEY: ^/grid.html$
+
+2019-08-08 08:13:22: : PATH::app/views/grid.phtml
+
+
+2019-08-08 08:13:22: : BASEURL::Array
+(
+    [path] => /views/grid.phtml
+)
+
+
+
+2019-08-08 08:13:22: : IS FOUND::TRUE
+
+
+2019-08-08 08:13:22: : PARAMETERS::Array
+(
+)
+
+
+
+2019-08-08 08:13:22: : TRANSLATED ROUTE::app/views/grid.phtml
+
+2019-08-08 08:13:22: : TRANSLATED SRC ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/app/views/grid.phtml
+
+2019-08-08 08:13:22: : TRANSLATED PHINK ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/app/views/grid.phtml
+
+2019-08-08 08:13:22: : Phink\Auth\TAuthentication::renewToken::TOKEN::MTc1NTkwMjQ0MzVkNGM2NjQyNDY3ZDY=
+
+2019-08-08 08:13:22: : MVC FILE NAMES FOR 5d4c66428b26b1.55843678::Array
+(
+    [parentUID] => 
+    [id] => noname
+    [name] => grid
+    [view] => app/views/grid.phtml
+    [controller] => app/controllers/grid.class.php
+    [css] => app/views/grid.css
+    [js] => app/controllers/grid.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_grid.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_grid.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_grid.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:22: : PARENT OBJECT::TView
+
+
+2019-08-08 08:13:22: : PARENT OBJECT::Grid
+
+
+2019-08-08 08:13:22: : CACHE FILE NAME TO INCLUDE: /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_grid.class.php
+
+2019-08-08 08:13:22:phink/autoloader.php:200 : Phink\TAutoloader::includeClass::app/models/grid.class.php
+
+2019-08-08 08:13:22: : MVC FILE NAMES FOR 8977388625d4c66428d7b34.04081064::Array
+(
+    [parentUID] => 8581497355d4c66428d6f63.08369585
+    [id] => noname
+    [name] => pager
+    [view] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.phtml
+    [controller] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.class.php
+    [css] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.css
+    [js] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_pager.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_pager.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_pager.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:22: : MVC FILE NAMES FOR 2041069365d4c66428dc398.12496681::Array
+(
+    [parentUID] => 8681061165d4c66428dbda0.62384874
+    [id] => noname
+    [name] => plugin
+    [view] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.phtml
+    [controller] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.class.php
+    [css] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.css
+    [js] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_plugin.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_plugin.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_plugin.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:22: : Phink\Core\TObject::invoke::INVOKE_ACTION::getData("6", "1")
+
+2019-08-08 08:13:35: : URL: /grid.html
+
+2019-08-08 08:13:35: : MATCHES: /grid.html
+
+2019-08-08 08:13:35: : KEY: ^/master.html$
+
+2019-08-08 08:13:35: : URL: /grid.html
+
+2019-08-08 08:13:35: : MATCHES: /grid.html
+
+2019-08-08 08:13:35: : KEY: ^/home.html$
+
+2019-08-08 08:13:35: : URL: /grid.html
+
+2019-08-08 08:13:35: : MATCHES: /views/grid.phtml
+
+2019-08-08 08:13:35: : KEY: ^/grid.html$
+
+2019-08-08 08:13:35: : PATH::app/views/grid.phtml
+
+
+2019-08-08 08:13:35: : BASEURL::Array
+(
+    [path] => /views/grid.phtml
+)
+
+
+
+2019-08-08 08:13:35: : IS FOUND::TRUE
+
+
+2019-08-08 08:13:35: : PARAMETERS::Array
+(
+)
+
+
+
+2019-08-08 08:13:35: : TRANSLATED ROUTE::app/views/grid.phtml
+
+2019-08-08 08:13:35: : TRANSLATED SRC ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/app/views/grid.phtml
+
+2019-08-08 08:13:35: : TRANSLATED PHINK ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/app/views/grid.phtml
+
+2019-08-08 08:13:35: : Phink\Auth\TAuthentication::renewToken::TOKEN::MjExNDk3Mjc2OTVkNGM2NjQyOGE5Y2Q=
+
+2019-08-08 08:13:35: : MVC FILE NAMES FOR 5d4c664f9a38b7.00111082::Array
+(
+    [parentUID] => 
+    [id] => noname
+    [name] => grid
+    [view] => app/views/grid.phtml
+    [controller] => app/controllers/grid.class.php
+    [css] => app/views/grid.css
+    [js] => app/controllers/grid.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_grid.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_grid.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_grid.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:35: : PARENT OBJECT::TView
+
+
+2019-08-08 08:13:35: : PARENT OBJECT::Grid
+
+
+2019-08-08 08:13:35: : CACHE FILE NAME TO INCLUDE: /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_grid.class.php
+
+2019-08-08 08:13:35:phink/autoloader.php:200 : Phink\TAutoloader::includeClass::app/models/grid.class.php
+
+2019-08-08 08:13:35: : MVC FILE NAMES FOR 1925715945d4c664f9c4480.60798380::Array
+(
+    [parentUID] => 10648646725d4c664f9c3682.66726860
+    [id] => noname
+    [name] => pager
+    [view] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.phtml
+    [controller] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.class.php
+    [css] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.css
+    [js] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_pager.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_pager.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_pager.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:35: : MVC FILE NAMES FOR 1464018585d4c664f9c93f5.68184530::Array
+(
+    [parentUID] => 5515694565d4c664f9c8e93.72356891
+    [id] => noname
+    [name] => plugin
+    [view] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.phtml
+    [controller] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.class.php
+    [css] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.css
+    [js] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_plugin.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_plugin.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_plugin.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:35: : Phink\Core\TObject::invoke::INVOKE_ACTION::getData("6", "2")
+
+2019-08-08 08:13:36: : URL: /grid.html
+
+2019-08-08 08:13:36: : MATCHES: /grid.html
+
+2019-08-08 08:13:36: : KEY: ^/master.html$
+
+2019-08-08 08:13:36: : URL: /grid.html
+
+2019-08-08 08:13:36: : MATCHES: /grid.html
+
+2019-08-08 08:13:36: : KEY: ^/home.html$
+
+2019-08-08 08:13:36: : URL: /grid.html
+
+2019-08-08 08:13:36: : MATCHES: /views/grid.phtml
+
+2019-08-08 08:13:36: : KEY: ^/grid.html$
+
+2019-08-08 08:13:36: : PATH::app/views/grid.phtml
+
+
+2019-08-08 08:13:36: : BASEURL::Array
+(
+    [path] => /views/grid.phtml
+)
+
+
+
+2019-08-08 08:13:36: : IS FOUND::TRUE
+
+
+2019-08-08 08:13:36: : PARAMETERS::Array
+(
+)
+
+
+
+2019-08-08 08:13:36: : TRANSLATED ROUTE::app/views/grid.phtml
+
+2019-08-08 08:13:36: : TRANSLATED SRC ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/app/views/grid.phtml
+
+2019-08-08 08:13:36: : TRANSLATED PHINK ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/app/views/grid.phtml
+
+2019-08-08 08:13:36: : Phink\Auth\TAuthentication::renewToken::TOKEN::MTQ4MzI2NzAwMDVkNGM2NjRmOTk4YjY=
+
+2019-08-08 08:13:36: : MVC FILE NAMES FOR 5d4c66501de4d3.06731857::Array
+(
+    [parentUID] => 
+    [id] => noname
+    [name] => grid
+    [view] => app/views/grid.phtml
+    [controller] => app/controllers/grid.class.php
+    [css] => app/views/grid.css
+    [js] => app/controllers/grid.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_grid.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_grid.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_grid.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:36: : PARENT OBJECT::TView
+
+
+2019-08-08 08:13:36: : PARENT OBJECT::Grid
+
+
+2019-08-08 08:13:36: : CACHE FILE NAME TO INCLUDE: /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_grid.class.php
+
+2019-08-08 08:13:36:phink/autoloader.php:200 : Phink\TAutoloader::includeClass::app/models/grid.class.php
+
+2019-08-08 08:13:36: : MVC FILE NAMES FOR 11678720635d4c66501ff713.71339784::Array
+(
+    [parentUID] => 5650933405d4c66501feb56.19505573
+    [id] => noname
+    [name] => pager
+    [view] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.phtml
+    [controller] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.class.php
+    [css] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.css
+    [js] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_pager.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_pager.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_pager.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:36: : MVC FILE NAMES FOR 13979717925d4c6650203f71.28619728::Array
+(
+    [parentUID] => 6162929545d4c66502039a6.30223087
+    [id] => noname
+    [name] => plugin
+    [view] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.phtml
+    [controller] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.class.php
+    [css] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.css
+    [js] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_plugin.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_plugin.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_plugin.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:36: : Phink\Core\TObject::invoke::INVOKE_ACTION::getData("6", "3")
+
+2019-08-08 08:13:36: : URL: /grid.html
+
+2019-08-08 08:13:36: : MATCHES: /grid.html
+
+2019-08-08 08:13:36: : KEY: ^/master.html$
+
+2019-08-08 08:13:36: : URL: /grid.html
+
+2019-08-08 08:13:36: : MATCHES: /grid.html
+
+2019-08-08 08:13:36: : KEY: ^/home.html$
+
+2019-08-08 08:13:36: : URL: /grid.html
+
+2019-08-08 08:13:36: : MATCHES: /views/grid.phtml
+
+2019-08-08 08:13:36: : KEY: ^/grid.html$
+
+2019-08-08 08:13:36: : PATH::app/views/grid.phtml
+
+
+2019-08-08 08:13:36: : BASEURL::Array
+(
+    [path] => /views/grid.phtml
+)
+
+
+
+2019-08-08 08:13:36: : IS FOUND::TRUE
+
+
+2019-08-08 08:13:36: : PARAMETERS::Array
+(
+)
+
+
+
+2019-08-08 08:13:36: : TRANSLATED ROUTE::app/views/grid.phtml
+
+2019-08-08 08:13:36: : TRANSLATED SRC ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/app/views/grid.phtml
+
+2019-08-08 08:13:36: : TRANSLATED PHINK ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/app/views/grid.phtml
+
+2019-08-08 08:13:36: : Phink\Auth\TAuthentication::renewToken::TOKEN::NDIyMzQ3NTM1ZDRjNjY1MDFkM2Q5
+
+2019-08-08 08:13:36: : MVC FILE NAMES FOR 5d4c66508917d6.43992405::Array
+(
+    [parentUID] => 
+    [id] => noname
+    [name] => grid
+    [view] => app/views/grid.phtml
+    [controller] => app/controllers/grid.class.php
+    [css] => app/views/grid.css
+    [js] => app/controllers/grid.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_grid.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_grid.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_grid.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:36: : PARENT OBJECT::TView
+
+
+2019-08-08 08:13:36: : PARENT OBJECT::Grid
+
+
+2019-08-08 08:13:36: : CACHE FILE NAME TO INCLUDE: /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_grid.class.php
+
+2019-08-08 08:13:36:phink/autoloader.php:200 : Phink\TAutoloader::includeClass::app/models/grid.class.php
+
+2019-08-08 08:13:36: : MVC FILE NAMES FOR 12948479455d4c66508bad80.53089390::Array
+(
+    [parentUID] => 19024936095d4c66508b9f14.08543230
+    [id] => noname
+    [name] => pager
+    [view] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.phtml
+    [controller] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.class.php
+    [css] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.css
+    [js] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_pager.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_pager.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_pager.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:36: : MVC FILE NAMES FOR 19714692945d4c66508bf905.03652172::Array
+(
+    [parentUID] => 14448522735d4c66508bf371.90103265
+    [id] => noname
+    [name] => plugin
+    [view] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.phtml
+    [controller] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.class.php
+    [css] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.css
+    [js] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_plugin.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_plugin.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_plugin.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:36: : Phink\Core\TObject::invoke::INVOKE_ACTION::getData("6", "4")
+
+2019-08-08 08:13:37: : URL: /grid.html
+
+2019-08-08 08:13:37: : MATCHES: /grid.html
+
+2019-08-08 08:13:37: : KEY: ^/master.html$
+
+2019-08-08 08:13:37: : URL: /grid.html
+
+2019-08-08 08:13:37: : MATCHES: /grid.html
+
+2019-08-08 08:13:37: : KEY: ^/home.html$
+
+2019-08-08 08:13:37: : URL: /grid.html
+
+2019-08-08 08:13:37: : MATCHES: /views/grid.phtml
+
+2019-08-08 08:13:37: : KEY: ^/grid.html$
+
+2019-08-08 08:13:37: : PATH::app/views/grid.phtml
+
+
+2019-08-08 08:13:37: : BASEURL::Array
+(
+    [path] => /views/grid.phtml
+)
+
+
+
+2019-08-08 08:13:37: : IS FOUND::TRUE
+
+
+2019-08-08 08:13:37: : PARAMETERS::Array
+(
+)
+
+
+
+2019-08-08 08:13:37: : TRANSLATED ROUTE::app/views/grid.phtml
+
+2019-08-08 08:13:37: : TRANSLATED SRC ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/app/views/grid.phtml
+
+2019-08-08 08:13:37: : TRANSLATED PHINK ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/app/views/grid.phtml
+
+2019-08-08 08:13:37: : Phink\Auth\TAuthentication::renewToken::TOKEN::MjA3Mzk5MzQ2MTVkNGM2NjUwODg4ZjM=
+
+2019-08-08 08:13:37: : MVC FILE NAMES FOR 5d4c6651242538.35563149::Array
+(
+    [parentUID] => 
+    [id] => noname
+    [name] => grid
+    [view] => app/views/grid.phtml
+    [controller] => app/controllers/grid.class.php
+    [css] => app/views/grid.css
+    [js] => app/controllers/grid.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_grid.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_grid.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_grid.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:37: : PARENT OBJECT::TView
+
+
+2019-08-08 08:13:37: : PARENT OBJECT::Grid
+
+
+2019-08-08 08:13:37: : CACHE FILE NAME TO INCLUDE: /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_grid.class.php
+
+2019-08-08 08:13:37:phink/autoloader.php:200 : Phink\TAutoloader::includeClass::app/models/grid.class.php
+
+2019-08-08 08:13:37: : MVC FILE NAMES FOR 1872014485d4c6651262fa8.49305411::Array
+(
+    [parentUID] => 7739317995d4c66512623b3.63344780
+    [id] => noname
+    [name] => pager
+    [view] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.phtml
+    [controller] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.class.php
+    [css] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.css
+    [js] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_pager.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_pager.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_pager.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:37: : MVC FILE NAMES FOR 19202648875d4c6651267fc7.81861335::Array
+(
+    [parentUID] => 21120695265d4c66512679d1.76447459
+    [id] => noname
+    [name] => plugin
+    [view] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.phtml
+    [controller] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.class.php
+    [css] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.css
+    [js] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_plugin.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_plugin.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_plugin.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:37: : Phink\Core\TObject::invoke::INVOKE_ACTION::getData("6", "5")
+
+2019-08-08 08:13:37: : URL: /grid.html
+
+2019-08-08 08:13:37: : MATCHES: /grid.html
+
+2019-08-08 08:13:37: : KEY: ^/master.html$
+
+2019-08-08 08:13:37: : URL: /grid.html
+
+2019-08-08 08:13:37: : MATCHES: /grid.html
+
+2019-08-08 08:13:37: : KEY: ^/home.html$
+
+2019-08-08 08:13:37: : URL: /grid.html
+
+2019-08-08 08:13:37: : MATCHES: /views/grid.phtml
+
+2019-08-08 08:13:37: : KEY: ^/grid.html$
+
+2019-08-08 08:13:37: : PATH::app/views/grid.phtml
+
+
+2019-08-08 08:13:37: : BASEURL::Array
+(
+    [path] => /views/grid.phtml
+)
+
+
+
+2019-08-08 08:13:37: : IS FOUND::TRUE
+
+
+2019-08-08 08:13:37: : PARAMETERS::Array
+(
+)
+
+
+
+2019-08-08 08:13:37: : TRANSLATED ROUTE::app/views/grid.phtml
+
+2019-08-08 08:13:37: : TRANSLATED SRC ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/app/views/grid.phtml
+
+2019-08-08 08:13:37: : TRANSLATED PHINK ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/app/views/grid.phtml
+
+2019-08-08 08:13:37: : Phink\Auth\TAuthentication::renewToken::TOKEN::MTMwMzE3MjI5ODVkNGM2NjUxMjM0YmE=
+
+2019-08-08 08:13:37: : MVC FILE NAMES FOR 5d4c6651ace528.83907115::Array
+(
+    [parentUID] => 
+    [id] => noname
+    [name] => grid
+    [view] => app/views/grid.phtml
+    [controller] => app/controllers/grid.class.php
+    [css] => app/views/grid.css
+    [js] => app/controllers/grid.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_grid.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_grid.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_grid.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:37: : PARENT OBJECT::TView
+
+
+2019-08-08 08:13:37: : PARENT OBJECT::Grid
+
+
+2019-08-08 08:13:37: : CACHE FILE NAME TO INCLUDE: /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_grid.class.php
+
+2019-08-08 08:13:37:phink/autoloader.php:200 : Phink\TAutoloader::includeClass::app/models/grid.class.php
+
+2019-08-08 08:13:37: : MVC FILE NAMES FOR 20891564185d4c6651b189d3.71298708::Array
+(
+    [parentUID] => 18062908825d4c6651b17a94.30371188
+    [id] => noname
+    [name] => pager
+    [view] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.phtml
+    [controller] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.class.php
+    [css] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.css
+    [js] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_pager.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_pager.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_pager.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:37: : MVC FILE NAMES FOR 5676937545d4c6651b1e641.61622981::Array
+(
+    [parentUID] => 14295823885d4c6651b1dbe2.05270453
+    [id] => noname
+    [name] => plugin
+    [view] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.phtml
+    [controller] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.class.php
+    [css] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.css
+    [js] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_plugin.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_plugin.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_plugin.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:37: : Phink\Core\TObject::invoke::INVOKE_ACTION::getData("6", "6")
+
+2019-08-08 08:13:39: : URL: /grid.html
+
+2019-08-08 08:13:39: : MATCHES: /grid.html
+
+2019-08-08 08:13:39: : KEY: ^/master.html$
+
+2019-08-08 08:13:39: : URL: /grid.html
+
+2019-08-08 08:13:39: : MATCHES: /grid.html
+
+2019-08-08 08:13:39: : KEY: ^/home.html$
+
+2019-08-08 08:13:39: : URL: /grid.html
+
+2019-08-08 08:13:39: : MATCHES: /views/grid.phtml
+
+2019-08-08 08:13:39: : KEY: ^/grid.html$
+
+2019-08-08 08:13:39: : PATH::app/views/grid.phtml
+
+
+2019-08-08 08:13:39: : BASEURL::Array
+(
+    [path] => /views/grid.phtml
+)
+
+
+
+2019-08-08 08:13:39: : IS FOUND::TRUE
+
+
+2019-08-08 08:13:39: : PARAMETERS::Array
+(
+)
+
+
+
+2019-08-08 08:13:39: : TRANSLATED ROUTE::app/views/grid.phtml
+
+2019-08-08 08:13:39: : TRANSLATED SRC ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/app/views/grid.phtml
+
+2019-08-08 08:13:39: : TRANSLATED PHINK ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/app/views/grid.phtml
+
+2019-08-08 08:13:39: : Phink\Auth\TAuthentication::renewToken::TOKEN::Nzc4NDI1OTE0NWQ0YzY2NTFhYzM4OA==
+
+2019-08-08 08:13:39: : MVC FILE NAMES FOR 5d4c66530bfbc7.21862149::Array
+(
+    [parentUID] => 
+    [id] => noname
+    [name] => grid
+    [view] => app/views/grid.phtml
+    [controller] => app/controllers/grid.class.php
+    [css] => app/views/grid.css
+    [js] => app/controllers/grid.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_grid.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_grid.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_grid.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:39: : PARENT OBJECT::TView
+
+
+2019-08-08 08:13:39: : PARENT OBJECT::Grid
+
+
+2019-08-08 08:13:39: : CACHE FILE NAME TO INCLUDE: /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_grid.class.php
+
+2019-08-08 08:13:39:phink/autoloader.php:200 : Phink\TAutoloader::includeClass::app/models/grid.class.php
+
+2019-08-08 08:13:39: : MVC FILE NAMES FOR 7768711975d4c6653111664.01679320::Array
+(
+    [parentUID] => 20689496045d4c6653110a92.21350040
+    [id] => noname
+    [name] => pager
+    [view] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.phtml
+    [controller] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.class.php
+    [css] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.css
+    [js] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_pager.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_pager.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_pager.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:39: : MVC FILE NAMES FOR 8774443825d4c6653116e41.48517938::Array
+(
+    [parentUID] => 2360328575d4c6653116812.37138598
+    [id] => noname
+    [name] => plugin
+    [view] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.phtml
+    [controller] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.class.php
+    [css] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.css
+    [js] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_plugin.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_plugin.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_plugin.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:39: : Phink\Core\TObject::invoke::INVOKE_ACTION::getData("6", "7")
+
+2019-08-08 08:13:41: : URL: /grid.html
+
+2019-08-08 08:13:41: : MATCHES: /grid.html
+
+2019-08-08 08:13:41: : KEY: ^/master.html$
+
+2019-08-08 08:13:41: : URL: /grid.html
+
+2019-08-08 08:13:41: : MATCHES: /grid.html
+
+2019-08-08 08:13:41: : KEY: ^/home.html$
+
+2019-08-08 08:13:41: : URL: /grid.html
+
+2019-08-08 08:13:41: : MATCHES: /views/grid.phtml
+
+2019-08-08 08:13:41: : KEY: ^/grid.html$
+
+2019-08-08 08:13:41: : PATH::app/views/grid.phtml
+
+
+2019-08-08 08:13:41: : BASEURL::Array
+(
+    [path] => /views/grid.phtml
+)
+
+
+
+2019-08-08 08:13:41: : IS FOUND::TRUE
+
+
+2019-08-08 08:13:41: : PARAMETERS::Array
+(
+)
+
+
+
+2019-08-08 08:13:41: : TRANSLATED ROUTE::app/views/grid.phtml
+
+2019-08-08 08:13:41: : TRANSLATED SRC ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/app/views/grid.phtml
+
+2019-08-08 08:13:41: : TRANSLATED PHINK ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/app/views/grid.phtml
+
+2019-08-08 08:13:41: : Phink\Auth\TAuthentication::renewToken::TOKEN::MTM4OTA1MTg3MTVkNGM2NjUzMGI2NDk=
+
+2019-08-08 08:13:41: : MVC FILE NAMES FOR 5d4c6655b97a07.63720671::Array
+(
+    [parentUID] => 
+    [id] => noname
+    [name] => grid
+    [view] => app/views/grid.phtml
+    [controller] => app/controllers/grid.class.php
+    [css] => app/views/grid.css
+    [js] => app/controllers/grid.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_grid.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_grid.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_grid.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:41: : PARENT OBJECT::TView
+
+
+2019-08-08 08:13:41: : PARENT OBJECT::Grid
+
+
+2019-08-08 08:13:41: : CACHE FILE NAME TO INCLUDE: /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_grid.class.php
+
+2019-08-08 08:13:41:phink/autoloader.php:200 : Phink\TAutoloader::includeClass::app/models/grid.class.php
+
+2019-08-08 08:13:41: : MVC FILE NAMES FOR 21030603415d4c6655bf83f0.18413683::Array
+(
+    [parentUID] => 17207060475d4c6655bf7814.25758547
+    [id] => noname
+    [name] => pager
+    [view] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.phtml
+    [controller] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.class.php
+    [css] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.css
+    [js] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_pager.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_pager.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_pager.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:41: : MVC FILE NAMES FOR 8993505935d4c6655bfcec3.02755033::Array
+(
+    [parentUID] => 17487577135d4c6655bfc6e1.71789780
+    [id] => noname
+    [name] => plugin
+    [view] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.phtml
+    [controller] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.class.php
+    [css] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.css
+    [js] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_plugin.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_plugin.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_plugin.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:41: : Phink\Core\TObject::invoke::INVOKE_ACTION::getData("6", "6")
+
+2019-08-08 08:13:44: : URL: /grid.html
+
+2019-08-08 08:13:44: : MATCHES: /grid.html
+
+2019-08-08 08:13:44: : KEY: ^/master.html$
+
+2019-08-08 08:13:44: : URL: /grid.html
+
+2019-08-08 08:13:44: : MATCHES: /grid.html
+
+2019-08-08 08:13:44: : KEY: ^/home.html$
+
+2019-08-08 08:13:44: : URL: /grid.html
+
+2019-08-08 08:13:44: : MATCHES: /views/grid.phtml
+
+2019-08-08 08:13:44: : KEY: ^/grid.html$
+
+2019-08-08 08:13:44: : PATH::app/views/grid.phtml
+
+
+2019-08-08 08:13:44: : BASEURL::Array
+(
+    [path] => /views/grid.phtml
+)
+
+
+
+2019-08-08 08:13:44: : IS FOUND::TRUE
+
+
+2019-08-08 08:13:44: : PARAMETERS::Array
+(
+)
+
+
+
+2019-08-08 08:13:44: : TRANSLATED ROUTE::app/views/grid.phtml
+
+2019-08-08 08:13:44: : TRANSLATED SRC ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/app/views/grid.phtml
+
+2019-08-08 08:13:44: : TRANSLATED PHINK ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/app/views/grid.phtml
+
+2019-08-08 08:13:44: : Phink\Auth\TAuthentication::renewToken::TOKEN::MTU2OTI5NDkwNTVkNGM2NjU1YjhkYTQ=
+
+2019-08-08 08:13:44: : MVC FILE NAMES FOR 5d4c6658beefa1.96890103::Array
+(
+    [parentUID] => 
+    [id] => noname
+    [name] => grid
+    [view] => app/views/grid.phtml
+    [controller] => app/controllers/grid.class.php
+    [css] => app/views/grid.css
+    [js] => app/controllers/grid.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_grid.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_grid.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_grid.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:44: : PARENT OBJECT::TView
+
+
+2019-08-08 08:13:44: : PARENT OBJECT::Grid
+
+
+2019-08-08 08:13:44: : CACHE FILE NAME TO INCLUDE: /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_grid.class.php
+
+2019-08-08 08:13:44:phink/autoloader.php:200 : Phink\TAutoloader::includeClass::app/models/grid.class.php
+
+2019-08-08 08:13:44: : MVC FILE NAMES FOR 7763436045d4c6658c1c7b8.69960289::Array
+(
+    [parentUID] => 15506119865d4c6658c1bbe7.40513115
+    [id] => noname
+    [name] => pager
+    [view] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.phtml
+    [controller] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.class.php
+    [css] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.css
+    [js] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_pager.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_pager.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_pager.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:44: : MVC FILE NAMES FOR 15855011215d4c6658cbee63.04828934::Array
+(
+    [parentUID] => 7718542565d4c6658cbe7c8.07050774
+    [id] => noname
+    [name] => plugin
+    [view] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.phtml
+    [controller] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.class.php
+    [css] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.css
+    [js] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_plugin.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_plugin.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_plugin.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:44: : Phink\Core\TObject::invoke::INVOKE_ACTION::getData("6", "5")
+
+2019-08-08 08:13:47: : URL: /grid.html
+
+2019-08-08 08:13:47: : MATCHES: /grid.html
+
+2019-08-08 08:13:47: : KEY: ^/master.html$
+
+2019-08-08 08:13:47: : URL: /grid.html
+
+2019-08-08 08:13:47: : MATCHES: /grid.html
+
+2019-08-08 08:13:47: : KEY: ^/home.html$
+
+2019-08-08 08:13:47: : URL: /grid.html
+
+2019-08-08 08:13:47: : MATCHES: /views/grid.phtml
+
+2019-08-08 08:13:47: : KEY: ^/grid.html$
+
+2019-08-08 08:13:47: : PATH::app/views/grid.phtml
+
+
+2019-08-08 08:13:47: : BASEURL::Array
+(
+    [path] => /views/grid.phtml
+)
+
+
+
+2019-08-08 08:13:47: : IS FOUND::TRUE
+
+
+2019-08-08 08:13:47: : PARAMETERS::Array
+(
+)
+
+
+
+2019-08-08 08:13:47: : TRANSLATED ROUTE::app/views/grid.phtml
+
+2019-08-08 08:13:47: : TRANSLATED SRC ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/app/views/grid.phtml
+
+2019-08-08 08:13:47: : TRANSLATED PHINK ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/app/views/grid.phtml
+
+2019-08-08 08:13:47: : Phink\Auth\TAuthentication::renewToken::TOKEN::MTU1MTExMjE0MzVkNGM2NjU4YmUwMGM=
+
+2019-08-08 08:13:47: : MVC FILE NAMES FOR 5d4c665b270e94.56870980::Array
+(
+    [parentUID] => 
+    [id] => noname
+    [name] => grid
+    [view] => app/views/grid.phtml
+    [controller] => app/controllers/grid.class.php
+    [css] => app/views/grid.css
+    [js] => app/controllers/grid.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_grid.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_grid.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_grid.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:47: : PARENT OBJECT::TView
+
+
+2019-08-08 08:13:47: : PARENT OBJECT::Grid
+
+
+2019-08-08 08:13:47: : CACHE FILE NAME TO INCLUDE: /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_grid.class.php
+
+2019-08-08 08:13:47:phink/autoloader.php:200 : Phink\TAutoloader::includeClass::app/models/grid.class.php
+
+2019-08-08 08:13:47: : MVC FILE NAMES FOR 19444956045d4c665b29b763.51881634::Array
+(
+    [parentUID] => 3606252845d4c665b29a4c1.30787943
+    [id] => noname
+    [name] => pager
+    [view] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.phtml
+    [controller] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.class.php
+    [css] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.css
+    [js] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_pager.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_pager.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_pager.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:47: : MVC FILE NAMES FOR 8786597805d4c665b2a0406.84491643::Array
+(
+    [parentUID] => 20584310745d4c665b29fe33.79647412
+    [id] => noname
+    [name] => plugin
+    [view] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.phtml
+    [controller] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.class.php
+    [css] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.css
+    [js] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_plugin.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_plugin.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_plugin.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:47: : Phink\Core\TObject::invoke::INVOKE_ACTION::getData("6", "4")
+
+2019-08-08 08:13:47: : URL: /grid.html
+
+2019-08-08 08:13:47: : MATCHES: /grid.html
+
+2019-08-08 08:13:47: : KEY: ^/master.html$
+
+2019-08-08 08:13:47: : URL: /grid.html
+
+2019-08-08 08:13:47: : MATCHES: /grid.html
+
+2019-08-08 08:13:47: : KEY: ^/home.html$
+
+2019-08-08 08:13:47: : URL: /grid.html
+
+2019-08-08 08:13:47: : MATCHES: /views/grid.phtml
+
+2019-08-08 08:13:47: : KEY: ^/grid.html$
+
+2019-08-08 08:13:47: : PATH::app/views/grid.phtml
+
+
+2019-08-08 08:13:47: : BASEURL::Array
+(
+    [path] => /views/grid.phtml
+)
+
+
+
+2019-08-08 08:13:47: : IS FOUND::TRUE
+
+
+2019-08-08 08:13:47: : PARAMETERS::Array
+(
+)
+
+
+
+2019-08-08 08:13:47: : TRANSLATED ROUTE::app/views/grid.phtml
+
+2019-08-08 08:13:47: : TRANSLATED SRC ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/app/views/grid.phtml
+
+2019-08-08 08:13:47: : TRANSLATED PHINK ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/app/views/grid.phtml
+
+2019-08-08 08:13:47: : Phink\Auth\TAuthentication::renewToken::TOKEN::MTkxMzE4ODIyMjVkNGM2NjViMjY2ZDU=
+
+2019-08-08 08:13:47: : MVC FILE NAMES FOR 5d4c665b9db7c4.78194096::Array
+(
+    [parentUID] => 
+    [id] => noname
+    [name] => grid
+    [view] => app/views/grid.phtml
+    [controller] => app/controllers/grid.class.php
+    [css] => app/views/grid.css
+    [js] => app/controllers/grid.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_grid.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_grid.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_grid.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:47: : PARENT OBJECT::TView
+
+
+2019-08-08 08:13:47: : PARENT OBJECT::Grid
+
+
+2019-08-08 08:13:47: : CACHE FILE NAME TO INCLUDE: /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_grid.class.php
+
+2019-08-08 08:13:47:phink/autoloader.php:200 : Phink\TAutoloader::includeClass::app/models/grid.class.php
+
+2019-08-08 08:13:47: : MVC FILE NAMES FOR 11840914505d4c665b9fcdd8.48827268::Array
+(
+    [parentUID] => 16373667455d4c665b9fbf19.99170569
+    [id] => noname
+    [name] => pager
+    [view] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.phtml
+    [controller] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.class.php
+    [css] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.css
+    [js] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_pager.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_pager.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_pager.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:47: : MVC FILE NAMES FOR 10733779735d4c665ba01c01.48183870::Array
+(
+    [parentUID] => 20795929955d4c665ba01593.14115155
+    [id] => noname
+    [name] => plugin
+    [view] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.phtml
+    [controller] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.class.php
+    [css] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.css
+    [js] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_plugin.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_plugin.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_plugin.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:47: : Phink\Core\TObject::invoke::INVOKE_ACTION::getData("6", "3")
+
+2019-08-08 08:13:47: : URL: /grid.html
+
+2019-08-08 08:13:47: : MATCHES: /grid.html
+
+2019-08-08 08:13:47: : KEY: ^/master.html$
+
+2019-08-08 08:13:47: : URL: /grid.html
+
+2019-08-08 08:13:47: : MATCHES: /grid.html
+
+2019-08-08 08:13:47: : KEY: ^/home.html$
+
+2019-08-08 08:13:47: : URL: /grid.html
+
+2019-08-08 08:13:47: : MATCHES: /views/grid.phtml
+
+2019-08-08 08:13:47: : KEY: ^/grid.html$
+
+2019-08-08 08:13:47: : PATH::app/views/grid.phtml
+
+
+2019-08-08 08:13:47: : BASEURL::Array
+(
+    [path] => /views/grid.phtml
+)
+
+
+
+2019-08-08 08:13:47: : IS FOUND::TRUE
+
+
+2019-08-08 08:13:47: : PARAMETERS::Array
+(
+)
+
+
+
+2019-08-08 08:13:47: : TRANSLATED ROUTE::app/views/grid.phtml
+
+2019-08-08 08:13:47: : TRANSLATED SRC ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/app/views/grid.phtml
+
+2019-08-08 08:13:47: : TRANSLATED PHINK ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/app/views/grid.phtml
+
+2019-08-08 08:13:47: : Phink\Auth\TAuthentication::renewToken::TOKEN::MTU5MjcwMzk5NWQ0YzY2NWI5ZDJkZg==
+
+2019-08-08 08:13:47: : MVC FILE NAMES FOR 5d4c665bd5f746.32962554::Array
+(
+    [parentUID] => 
+    [id] => noname
+    [name] => grid
+    [view] => app/views/grid.phtml
+    [controller] => app/controllers/grid.class.php
+    [css] => app/views/grid.css
+    [js] => app/controllers/grid.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_grid.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_grid.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_grid.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:47: : PARENT OBJECT::TView
+
+
+2019-08-08 08:13:47: : PARENT OBJECT::Grid
+
+
+2019-08-08 08:13:47: : CACHE FILE NAME TO INCLUDE: /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_grid.class.php
+
+2019-08-08 08:13:47:phink/autoloader.php:200 : Phink\TAutoloader::includeClass::app/models/grid.class.php
+
+2019-08-08 08:13:47: : MVC FILE NAMES FOR 14763876215d4c665bd8c203.24460061::Array
+(
+    [parentUID] => 15085503605d4c665bd8b4d9.14233349
+    [id] => noname
+    [name] => pager
+    [view] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.phtml
+    [controller] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.class.php
+    [css] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.css
+    [js] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_pager.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_pager.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_pager.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:47: : MVC FILE NAMES FOR 5235442575d4c665bd910e0.49497762::Array
+(
+    [parentUID] => 1999614815d4c665bd90a30.14927997
+    [id] => noname
+    [name] => plugin
+    [view] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.phtml
+    [controller] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.class.php
+    [css] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.css
+    [js] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_plugin.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_plugin.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_plugin.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:47: : Phink\Core\TObject::invoke::INVOKE_ACTION::getData("6", "2")
+
+2019-08-08 08:13:48: : URL: /grid.html
+
+2019-08-08 08:13:48: : MATCHES: /grid.html
+
+2019-08-08 08:13:48: : KEY: ^/master.html$
+
+2019-08-08 08:13:48: : URL: /grid.html
+
+2019-08-08 08:13:48: : MATCHES: /grid.html
+
+2019-08-08 08:13:48: : KEY: ^/home.html$
+
+2019-08-08 08:13:48: : URL: /grid.html
+
+2019-08-08 08:13:48: : MATCHES: /views/grid.phtml
+
+2019-08-08 08:13:48: : KEY: ^/grid.html$
+
+2019-08-08 08:13:48: : PATH::app/views/grid.phtml
+
+
+2019-08-08 08:13:48: : BASEURL::Array
+(
+    [path] => /views/grid.phtml
+)
+
+
+
+2019-08-08 08:13:48: : IS FOUND::TRUE
+
+
+2019-08-08 08:13:48: : PARAMETERS::Array
+(
+)
+
+
+
+2019-08-08 08:13:48: : TRANSLATED ROUTE::app/views/grid.phtml
+
+2019-08-08 08:13:48: : TRANSLATED SRC ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/app/views/grid.phtml
+
+2019-08-08 08:13:48: : TRANSLATED PHINK ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/app/views/grid.phtml
+
+2019-08-08 08:13:48: : Phink\Auth\TAuthentication::renewToken::TOKEN::MTQzNzI0ODA1MjVkNGM2NjViZDU1MWU=
+
+2019-08-08 08:13:48: : MVC FILE NAMES FOR 5d4c665c1449c0.50517016::Array
+(
+    [parentUID] => 
+    [id] => noname
+    [name] => grid
+    [view] => app/views/grid.phtml
+    [controller] => app/controllers/grid.class.php
+    [css] => app/views/grid.css
+    [js] => app/controllers/grid.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_grid.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_grid.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_grid.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:48: : PARENT OBJECT::TView
+
+
+2019-08-08 08:13:48: : PARENT OBJECT::Grid
+
+
+2019-08-08 08:13:48: : CACHE FILE NAME TO INCLUDE: /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_grid.class.php
+
+2019-08-08 08:13:48:phink/autoloader.php:200 : Phink\TAutoloader::includeClass::app/models/grid.class.php
+
+2019-08-08 08:13:48: : MVC FILE NAMES FOR 2072246335d4c665c171d93.16253063::Array
+(
+    [parentUID] => 3604798765d4c665c1711b4.01002648
+    [id] => noname
+    [name] => pager
+    [view] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.phtml
+    [controller] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.class.php
+    [css] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.css
+    [js] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_pager.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_pager.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_pager.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:48: : MVC FILE NAMES FOR 7313307695d4c665c176539.05274138::Array
+(
+    [parentUID] => 5672619685d4c665c175fc9.81345969
+    [id] => noname
+    [name] => plugin
+    [view] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.phtml
+    [controller] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.class.php
+    [css] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.css
+    [js] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_plugin.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_plugin.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_plugin.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:48: : Phink\Core\TObject::invoke::INVOKE_ACTION::getData("6", "1")
+
+2019-08-08 08:13:49: : URL: /grid.html
+
+2019-08-08 08:13:49: : MATCHES: /grid.html
+
+2019-08-08 08:13:49: : KEY: ^/master.html$
+
+2019-08-08 08:13:49: : URL: /grid.html
+
+2019-08-08 08:13:49: : MATCHES: /grid.html
+
+2019-08-08 08:13:49: : KEY: ^/home.html$
+
+2019-08-08 08:13:49: : URL: /grid.html
+
+2019-08-08 08:13:49: : MATCHES: /views/grid.phtml
+
+2019-08-08 08:13:49: : KEY: ^/grid.html$
+
+2019-08-08 08:13:49: : PATH::app/views/grid.phtml
+
+
+2019-08-08 08:13:49: : BASEURL::Array
+(
+    [path] => /views/grid.phtml
+)
+
+
+
+2019-08-08 08:13:49: : IS FOUND::TRUE
+
+
+2019-08-08 08:13:49: : PARAMETERS::Array
+(
+)
+
+
+
+2019-08-08 08:13:49: : TRANSLATED ROUTE::app/views/grid.phtml
+
+2019-08-08 08:13:49: : TRANSLATED SRC ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/app/views/grid.phtml
+
+2019-08-08 08:13:49: : TRANSLATED PHINK ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/app/views/grid.phtml
+
+2019-08-08 08:13:49: : Phink\Auth\TAuthentication::renewToken::TOKEN::MTg3MzcyMDY3OTVkNGM2NjVjMTNhZTM=
+
+2019-08-08 08:13:49: : MVC FILE NAMES FOR 5d4c665d0b3026.76563033::Array
+(
+    [parentUID] => 
+    [id] => noname
+    [name] => grid
+    [view] => app/views/grid.phtml
+    [controller] => app/controllers/grid.class.php
+    [css] => app/views/grid.css
+    [js] => app/controllers/grid.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_grid.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_grid.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_grid.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:49: : PARENT OBJECT::TView
+
+
+2019-08-08 08:13:49: : PARENT OBJECT::Grid
+
+
+2019-08-08 08:13:49: : CACHE FILE NAME TO INCLUDE: /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_grid.class.php
+
+2019-08-08 08:13:49:phink/autoloader.php:200 : Phink\TAutoloader::includeClass::app/models/grid.class.php
+
+2019-08-08 08:13:49: : MVC FILE NAMES FOR 3003512905d4c665d0d8fe2.39969474::Array
+(
+    [parentUID] => 14214972455d4c665d0d83a7.56785583
+    [id] => noname
+    [name] => pager
+    [view] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.phtml
+    [controller] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.class.php
+    [css] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.css
+    [js] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_pager.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_pager.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_pager.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:49: : MVC FILE NAMES FOR 15454878995d4c665d0dd993.20277554::Array
+(
+    [parentUID] => 12274009385d4c665d0dd407.60488741
+    [id] => noname
+    [name] => plugin
+    [view] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.phtml
+    [controller] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.class.php
+    [css] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.css
+    [js] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_plugin.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_plugin.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_plugin.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:49: : Phink\Core\TObject::invoke::INVOKE_ACTION::getData("6", "1")
+
+2019-08-08 08:13:50: : URL: /grid.html
+
+2019-08-08 08:13:50: : MATCHES: /grid.html
+
+2019-08-08 08:13:50: : KEY: ^/master.html$
+
+2019-08-08 08:13:50: : URL: /grid.html
+
+2019-08-08 08:13:50: : MATCHES: /grid.html
+
+2019-08-08 08:13:50: : KEY: ^/home.html$
+
+2019-08-08 08:13:50: : URL: /grid.html
+
+2019-08-08 08:13:50: : MATCHES: /views/grid.phtml
+
+2019-08-08 08:13:50: : KEY: ^/grid.html$
+
+2019-08-08 08:13:50: : PATH::app/views/grid.phtml
+
+
+2019-08-08 08:13:50: : BASEURL::Array
+(
+    [path] => /views/grid.phtml
+)
+
+
+
+2019-08-08 08:13:50: : IS FOUND::TRUE
+
+
+2019-08-08 08:13:50: : PARAMETERS::Array
+(
+)
+
+
+
+2019-08-08 08:13:50: : TRANSLATED ROUTE::app/views/grid.phtml
+
+2019-08-08 08:13:50: : TRANSLATED SRC ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/app/views/grid.phtml
+
+2019-08-08 08:13:50: : TRANSLATED PHINK ROUTE::/Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/app/views/grid.phtml
+
+2019-08-08 08:13:50: : Phink\Auth\TAuthentication::renewToken::TOKEN::MTk4MjEwMjI2ODVkNGM2NjVkMGE5MTQ=
+
+2019-08-08 08:13:50: : MVC FILE NAMES FOR 5d4c665e4cfc61.90356813::Array
+(
+    [parentUID] => 
+    [id] => noname
+    [name] => grid
+    [view] => app/views/grid.phtml
+    [controller] => app/controllers/grid.class.php
+    [css] => app/views/grid.css
+    [js] => app/controllers/grid.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_grid.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_grid.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_grid.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:50: : PARENT OBJECT::TView
+
+
+2019-08-08 08:13:50: : PARENT OBJECT::Grid
+
+
+2019-08-08 08:13:50: : CACHE FILE NAME TO INCLUDE: /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_grid.class.php
+
+2019-08-08 08:13:50:phink/autoloader.php:200 : Phink\TAutoloader::includeClass::app/models/grid.class.php
+
+2019-08-08 08:13:50: : MVC FILE NAMES FOR 3221195435d4c665e4eec60.08437786::Array
+(
+    [parentUID] => 10130143505d4c665e4ee039.20206647
+    [id] => noname
+    [name] => pager
+    [view] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.phtml
+    [controller] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.class.php
+    [css] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.css
+    [js] => vendor/phink/phink/src/phink/web/ui/widget/pager/pager.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_pager.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_pager.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_pager.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:50: : MVC FILE NAMES FOR 4850036475d4c665e4f3646.98425410::Array
+(
+    [parentUID] => 11873494095d4c665e4f30a6.15404124
+    [id] => noname
+    [name] => plugin
+    [view] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.phtml
+    [controller] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.class.php
+    [css] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.css
+    [js] => vendor/phink/phink/src/phink/web/ui/widget/plugin/plugin.js
+    [cache] => Array
+        (
+            [controller] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/runtime/app_controllers_plugin.class.php
+            [css] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/css/runtime/app_controllers_plugin.css
+            [js] => /Users/david/Sites/CodePhoenixOrg/SDK/php/Nidus/src/js/runtime/app_controllers_plugin.js
+        )
+
+)
+
+
+
+2019-08-08 08:13:50: : Phink\Core\TObject::invoke::INVOKE_ACTION::getData("6", "1")
+

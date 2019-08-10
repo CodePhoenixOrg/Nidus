@@ -1,0 +1,11 @@
+vendor/
+.vscode/
+nbproject/
+logs/*
+*error_log
+phink.js
+*builder.lock
+src/cache/*
+src/runtime/*
+src/web/css/runtime/*
+src/web/js/runtime/*

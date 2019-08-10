@@ -1,0 +1,14 @@
+{
+    "web": {
+        "get": {
+            "^/$": "/views/main.phtml",
+            "^/hello$": "/views/hello.phtml"
+        }
+        , "post" : {
+            "^/master.html$": "/views/master.phtml",
+            "^/home.html$": "/views/home.phtml",
+            "^/grid.html$": "/views/grid.phtml",
+            "^/token.html(\\?([A-Z_]+))?$": "/views/token.phtml?$1"
+        }
+    }
+}
