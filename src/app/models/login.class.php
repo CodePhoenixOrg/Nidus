@@ -2,39 +2,48 @@
 
 namespace Nidus\Models;
 
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+use Phink\MVC\TModel;
 use Phink\Data\Client\PDO\TPdoConnection;
-// require_once APP_DATA . 'phoenix_connection.php';
-
 /**
  * Description of login
  *
- * @author davidbl
+ * @author david
  */
-class Login extends \Phink\MVC\TModel {
+class Login extends TModel {
     
-    public function init() {
+    public function init(): void
+    {
+        //\Phink\Log\TLog::dump('OPEN LAdminConnection', $this->connector);        
         $this->connector = TPdoConnection::builder('phoenix_conf');
-        $this->connector->open();
+        $this->connector->open();    
     }
 
-    public function getPermission($login, $password) {
+    public function getPermission($login, $password) : ?string
+    {
         
-        $result = FALSE;
-        if($login != '' && $password != '') {
-            $cmd = new \Phink\Data\Client\PDO\TPdoCommand($this->connector);
-            //"SELECT usr_id FROM Alphas.dbo.t_user with (nolock) WHERE usr_login=:login and usr_password=:password"
-            //"SELECT User FROM user WHERE User=:login and Password=PASSWORD(:password)"
-            $stmt = $cmd->query(
-                "SELECT mbr_name FROM members WHERE mbr_login=:login and mbr_password=:password"
-                , ['login' => $login, 'password' => $password]
-            );
-            if ($row = $stmt->fetch()) {
-                $cmd->closeCursor();
-                $result = \Phink\Auth\TAuthentication::setUserToken($row[0], $login);
+        $result = null;
+        try {
+            if($login != '' && $password != '') {
+                //"SELECT usr_id FROM Alphas.dbo.t_user with (nolock) WHERE usr_login=:login and usr_password=:password"
+                //"SELECT User FROM user WHERE User=:login and Password=PASSWORD(:password)"
+                $stmt = $this->connector->query(
+                    "SELECT mbr_name FROM members WHERE mbr_login=:login and mbr_password=:password"
+                    , ['login' => $login, 'password' => $password]
+                );
+                if ($row = $stmt->fetch()) {
+                    $result = \Phink\Auth\TAuthentication::setUserToken($row[0], $login);
+                }
             }
+
+            //\Phink\Log\TLog::debug('getPermission' . ' : ' . $result);
+        } catch(\Throwable $ex) {
+            self::getLogger()->exception($ex);
         }
-        
-        \Phink\Log\TLog::debug('getPermission' . ' : ' . $result);
         
         return $result;
     }

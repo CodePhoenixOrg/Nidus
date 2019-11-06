@@ -6,7 +6,7 @@ use Phink\Data\Client\PDO\TPdoConnection;
 
 class Home extends \Phink\MVC\TModel {
 
-    public function init()
+    public function init(): void
     {
         $this->connector = TPdoConnection::builder('amarok_conf');
         $this->connector->open();

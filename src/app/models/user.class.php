@@ -25,7 +25,8 @@ use Nidus\Data\Connection;
  */
 class User extends TModel {
     
-    public function init() {
+    public function init(): void
+    {
         $this->connector = new Connection();
         $this->connector->open();
     }

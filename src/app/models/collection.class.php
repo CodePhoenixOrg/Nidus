@@ -13,7 +13,7 @@ use Phink\Data\Client\PDO\TPdoConnection;
 class Collection extends \Phink\MVC\TModel
 {
     //put your code here
-    public function init()
+    public function init(): void
     {
         // $this->connector = new \SoL\Data\SoundLibConnection();
         // $this->connector->open();

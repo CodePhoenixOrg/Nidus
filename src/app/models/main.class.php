@@ -18,7 +18,8 @@ use Phink\Data\Client\PDO\TPdoConnection;
  */
 class Main extends \Phink\MVC\TModel {
     
-    public function init() {
+    public function init(): void
+    {
         $this->connector = TPdoConnection::builder('phoenix_conf');
         $this->connector->open();
     }
