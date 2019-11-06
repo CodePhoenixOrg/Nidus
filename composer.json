@@ -1,5 +1,5 @@
 {
     "require": {
-        "phink/phink": "^0.9.6"
+        "phink/phink": "0.9.*"
     }
 }
