@@ -1,4 +1,37 @@
 
+    <!-- Navbar
+    ================================================== -->
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="javascript:logout()">Phoenix</a>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+                <li><a id="home">Accueil</a></li>
+                <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Administration<b class="caret"></b></a>
+                  <ul class="dropdown-menu">
+                    <li class="dropdown-header">Outils</li>
+                    <li><a id="passwd">Générateur de mot de passe</a></li>
+                    <li><a id="sample">Exemple de multi-accordéon</a></li>
+                    <!--li><a href="javascript:publishVehicles()">Publier les véhicules</a></li-->
+                  </ul>
+                </li>
+            </ul>
+            <form class="navbar-form navbar-right">
+              <div class="form-group">
+                <input placeholder="Email" class="form-control" type="text" readonly="readonly">
+              </div>
+              <button type="submit" class="btn btn-danger">Déconnexion</button>
+            </form>
+          </div>
+        </div>
+    </div>
+    
     <!-- Full Page Image Background Carousel Header -->
     <header id="myCarousel" class="carousel slide">
         <!-- Indicators -->

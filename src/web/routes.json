@@ -1,14 +1,23 @@
 {
     "web": {
         "get": {
-            "^/$": "/views/main.phtml",
+            "^/$": "/views/login.phtml",
+            "^/login.html$": "/views/login.phtml",
+            "^/login.html?(.*)$": "/views/login.phtml?$1",
+            "^/form.html$": "/views/form.phtml",
+            "^/form.html?(.*)$": "/views/form.phtml?$1",            
+            "^/main.html$": "/views/main.phtml",
+            "^/main.html(.*)$": "/views/main.phtml?$1",
             "^/hello$": "/views/hello.phtml"
         }
         , "post" : {
+            "^/login.html$": "/views/login.phtml",
+            "^/form.html$": "/views/form.phtml",
+            "^/form.html?(.*)$": "/views/form.phtml?$1",
             "^/master.html$": "/views/master.phtml",
             "^/home.html$": "/views/home.phtml",
             "^/grid.html$": "/views/grid.phtml",
-            "^/token.html(\\?([A-Z_]+))?$": "/views/token.phtml?$1"
+            "^/token.html(\\?([A-Z_]+))?$": "/views/token.phtml?$2"
         }
     }
 }

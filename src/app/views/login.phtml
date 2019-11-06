@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <meta charset="utf-8">
+  <title>Puzzle Factory </title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <!-- Le styles -->
+  <link href="https://cdn.thirdparty.loc/css/bootstrap.css" rel="stylesheet">
+  <link href="https://cdn.thirdparty.loc/css/jquery-ui.css" rel="stylesheet">
+  <link href="https://cdn.thirdparty.loc/css/jquery-ui.structure.css" rel="stylesheet">
+  <link href="https://cdn.thirdparty.loc/css/jquery-ui.theme.css" rel="stylesheet">
+  <!--link href="https://cdn.thirdparty.loc/css/jquerysctipttop.css" rel="stylesheet"-->
+  <!--link href="https://cdn.thirdparty.loc/css/multiaccordion.jquery.css" rel="stylesheet"-->
+  <link href="css/docs.css" rel="stylesheet">
+  <link href="https://cdn.thirdparty.loc/css/prettify.css" rel="stylesheet">
+  <link href="css/jumbotron.css" rel="stylesheet">
+
+  <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+  <!--[if lt IE 9]>
+      <script src="js/html5shiv.js"></script>
+    <![endif]-->
+
+  <style type="text/css" id="holderjs-style">
+    .holderjs-fluid {
+      font-size: 16px;
+      font-weight: bold;
+      text-align: center;
+      font-family: sans-serif;
+      margin: 0
+    }
+
+    .holderjs-fluid {
+      font-size: 16px;
+      font-weight: bold;
+      text-align: center;
+      font-family: sans-serif;
+      margin: 0
+    }
+  </style>
+  <style type="text/css"></style>
+  <link href="/css/login.css" rel="stylesheet">
+</head>
+
+<body data-twttr-rendered="true" data-spy="scroll" data-target=".bs-docs-sidebar">
+<!-- style="position:absolute;z-index:1;margin-top:150;margin-left:150" -->
+
+  <div id="mainContent">
+
+    <form class="form-signin">
+		<img
+			id="logo"
+			src="img/big_logo.png"
+			height="202" width="724"
+			onMouseOut="PZ_IMG.src='img/big_logo.png';"
+			onMouseOver="PZ_IMG=document.getElementById('logo'); PZ_IMG.src='img/big_logo_light.png';">
+      <span class="form-signin-heading">Puzzle Factory (αlphα)</span>
+      <input class="form-control" type="text" id="login" name="login" placeholder="Identifiant" value="lambda">
+      <input class="form-control" type="password" id="password" name="password" placeholder="Mot de passe" value="1MF14m2p97">
+      <button class="btn btn-lg btn-primary  btn-block" type="button" name="valider" value="ok" id="authenticate">Valider</button>
+      <div id="message" style="color: red;">
+      </div>
+    </form>
+    <div>
+      <phx:echo var="headers" />
+    </div>
+  </div>
+  <!-- Le javascript
+    ================================================== -->
+  <!-- Placed at the end of the document so the pages load faster -->
+  <script type="text/javascript" src="https://cdn.thirdparty.loc/js/widgets.js"></script>
+  <script type="text/javascript" src="https://cdn.thirdparty.loc/js/jquery.js"></script>
+  <script type="text/javascript" src="https://cdn.thirdparty.loc/js/jquery-ui.js"></script>
+  <!--script type="text/javascript" src="https://cdn.thirdparty.loc/js/multiaccordion.jquery.js"></script-->
+  <script type="text/javascript" src="https://cdn.thirdparty.loc/js/bootstrap.js"></script>
+  <script type="text/javascript" src="https://cdn.thirdparty.loc/js/holder.js"></script>
+  <!--    <script type="text/javascript" src="https://cdn.thirdparty.loc/js/prettify.js"></script>-->
+
+  <script type="text/javascript" src="https://cdn.thirdparty.loc/js/spin.min.js"></script>
+  <script type="text/javascript" src="https://cdn.thirdparty.loc/js/php.default.min.js"></script>
+  <script type="text/javascript" src="https://cdn.code-phoenix.loc/js/jphoenix.js"></script>
+  <!-- <script type="text/javascript" src="js/hatcherry.js"></script> -->
+  <script type="text/javascript" src="phink.js"></script>
+</body>
+
+</html>
