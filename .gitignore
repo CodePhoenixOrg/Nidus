@@ -9,5 +9,6 @@ cache
 runtime
 src/web/assets/admin
 src/web/fr
-crypto.db
+*.db
 puzzle.js
+
