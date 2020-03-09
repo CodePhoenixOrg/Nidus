@@ -1,5 +1,11 @@
 <?php
-require dirname(__DIR__).'/../../../../reload.php';
+if (Phar::running() !== '') {
+    include 'phink_library.php';
+}
+
+if (Phar::running() === '') {
+    require __DIR__ . '/../../../../../vendor/autoload.php';
+}
 
 use Phink\Xml\TXmlDocument;
 
@@ -29,11 +35,11 @@ class Piml extends \Phink\UI\TConsoleApplication
         $dir = dirname(__FILE__);
         parent::__construct($args_v, $args_c, $dir);
     }
-    
+
     /**
      * Entrypoint of a TConsoleApplication
      */
-    public function run() : bool
+    public function run(): bool
     {
         // if($this->canStop()) {
         //     return;
@@ -41,8 +47,8 @@ class Piml extends \Phink\UI\TConsoleApplication
 
         return true;
     }
-    
-    public function ignite() : void
+
+    public function ignite(): void
     {
         parent::ignite();
 
@@ -69,7 +75,7 @@ class Piml extends \Phink\UI\TConsoleApplication
     {
         $lines = file('piml.phtml');
         $text = '';
-        foreach($lines as $line) {
+        foreach ($lines as $line) {
             $text .= trim($line) . PHP_EOL;
         }
 
@@ -84,25 +90,74 @@ class Piml extends \Phink\UI\TConsoleApplication
         $doc->matchAll();
         $matches = $doc->getList();
 
-        foreach($matches as $match) {
+        foreach ($matches as $match) {
             echo print_r($match, true) . PHP_EOL;
-        } 
+        }
     }
 
     protected function regex(): void
     {
         $matches = [];
         $re = '/(<phx:.+?>)|(<\/phx:\w+>)/u';
+        $re = '/(<phx:TPluginChild.[^>]+?[^\/]>)(.*?)(<\/phx:TPluginChild>)|(<phx:.+?>)|(<\/phx:\w+>)/is';
 
         $text = $this->loadText();
-        
+
         preg_match_all($re, $text, $matches, PREG_SET_ORDER | PREG_OFFSET_CAPTURE, 0);
-        
+        // preg_match_all($re, $text, $matches, PREG_SET_ORDER, 0);
+        $matches0 = $matches[0];
+        $matches1 = array_map(function ($match0) {
+            $result = [];
+            unset($match0[0]);
+
+            foreach ($match0 as $match) {
+
+                if (count($match) === 0) {
+                    continue;
+                }
+                if ($match[1] === -1) {
+                    unset($match);
+                }
+
+                // $match1 = array_unique($match0);
+                $match2 = json_encode($match, JSON_PRETTY_PRINT);
+                $match3 = json_decode($match2, true);
+
+                if (count($match3) === 0) {
+                    continue;
+                }
+                $result[] = $match3;
+            }
+
+            // if(count($matches2[1]) === 0)
+            // {
+            //     unset($matches2[1]);
+            // }
+            // $matches2 = array_unique($matches2);
+
+            return $result;
+        }, $matches);
+
+        // $matches2 = array_map(function ($match0) {
+        //     $matches3 = array_map(function ($match1) {
+
+        //         $match2 = json_encode($match1, JSON_PRETTY_PRINT);
+        //         $match3 = json_decode($match2, true);
+
+        //         return $match3;
+        //     }, $match0);
+        //     return $matches3;
+        // }, $matches1);
+
         // Print the entire match result
-        foreach($matches as $match) {
-            $match[0][] = mb_strlen($match[0][0]) + $match[0][1];
-            echo print_r($match[0], true) . PHP_EOL;
-        }            
+        // foreach ($matches1 as $match) {
+        //     if (count($match) === 0) {
+        //         continue;
+        //     }
+        //     echo print_r($match, true) . PHP_EOL;
+        // }
+
+        echo print_r($matches1, true);
     }
 }
 
